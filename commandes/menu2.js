@@ -34,7 +34,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────  BONIPHACE MD 💥 ─────✣
+╭────  DULLAH MD 💥 ─────✣
 │  ╭─────────────✣
 │  │▸ *my owner* : ${s.OWNER_NAME}
    │▸ *commander* : ${nomAuteurMessage} 
@@ -45,26 +45,26 @@ const date = moment().format('DD/MM/YYYY');
     ▸ *plugin* : ${cm.length} 
     ▸ *rom* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
     ▸ *running on* : ${os.platform()}
-    ▸ *theme* : *BONIPHACE TEACH*
+    ▸ *theme* : *DULLA*
 
-> BONIPHACE MD 💥 2024\n${readmore}`;
+> DULLAH MD 💥 2024\n${readmore}`;
     
 let menuMsg = `
 
- * BONIPHACE MD 💥 COMMADS *${readmore}
+ * DULLAH MD 💥 COMMADS *${readmore}
 `;
 
     for (const cat in coms) {
         menuMsg += ` ╭──────✣ *${cat}* ✣─────☹︎`;
         for (const cmd of coms[cat]) {
             menuMsg += `
-│💎│ ${cmd}`;
+│📌│ ${cmd}`;
         }
         menuMsg += `
 ╰────────────···▸▸ \n`
     }
 
-    menuMsg += `> powered by BONIPHACE TECH 
+    menuMsg += `> powered by MR DULLAH 
 `;
 
    var lien = mybotpic();
