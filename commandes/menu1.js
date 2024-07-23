@@ -34,16 +34,16 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-*BONIPHACE MD 💥 AVAILABLE MENUS* 
+*DULLAH MD 💥 AVAILABLE MENUS* 
 
 
     ▸ *commander* : ${cm.length} 
     ▸ *rom* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
     ▸ *uptime* : ${os.platform()}
-    ▸ *theme* : *BONIPHACE TEACH*
+    ▸ *theme* : *MR DULLA*
 
-> BONIPHACE MD 💥 WA BOT
-> POWERED BY BONIPHACE TEACH 💎\n${readmore}`;
+> DULLAH MD 💥 WA BOT
+> POWERED BY MR DULLA 💎\n${readmore}`;
     
 let menuMsg = `
 > Hello ${nomAuteurMessage},,, Type menu2 to access a list of commands. 
