@@ -22,6 +22,14 @@
 </p>
 
 
+- <a href="https://www.instagram.com/dullahssalum"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-black?style=for-the-badge&logo=Instagram"></a>
+- <a href="https://www.tiktok.com/@dallas387"><img title="Author" src="https://img.shields.io/badge/ON TikTok-black?style=for-the-badge&logo=tiktok"></a>
+- <a
+href="https://www.facebook.com/100087010467670"><img title="Author" src="https://img.shields.io/badge/ON Facebook-blue?style=for-the-badge&logo=facebook"></a>
+- <a
+href="https://wa.me/255716945971"><img title="Author" src="https://img.shields.io/badge/ON WhatsApp-pupple?style=for-the-badge&logo=watsapp"></a>
+- <a href="https://chat.whatsapp.com/J13se1OEvHj647nNBssAT2"><img title="Author" src="https://img.shields.io/badge/ON Wa Group-green?style=for-the-badge&logo=watsapp"></a>
+- <a href="https://youtube.com/@herokuplatform?si=kl684fKNUpxTFig2"><img title="Author" src="https://img.shields.io/badge/ON YouTube-darkred?style=for-the-badge&logo=youtube"></a>
 
     
  
