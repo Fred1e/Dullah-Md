@@ -1,9 +1,9 @@
 {
-  "name":"BONIPHACE MD UPDATE",
-  "description":"Best WhatsApp Bot Developed By Boniphace Contact Us 255716661569 Thank you for choose Boniphace MD",
+  "name":"DULLAH MD UPDATE",
+  "description":"Best WhatsApp Bot Developed By Dulla Contact Us 255716945971 Thank you for choose Dullah Md",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/00b2cd460495e3fb0a0eb.jpg",
-  "repository":"https://github.com/boniphace704/BONIPHACE_MD",
+  "logo":"https://telegra.ph/file/de85851cc494331f47b3f.jpg.jpg",
+  "repository":"https://github.com/Fred1e/Dullah-Md",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BONIPHACE_MD",
+      "value":"DULLAH MD 🌟",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/00b2cd460495e3fb0a0eb.jpg",
+      "value":"https://telegra.ph/file/de85851cc494331f47b3f.jpg,https://telegra.ph/file/dcaaa16f7b556d84093f7.jpg,https://telegra.ph/file/f0f8ef25b35b76be901a7.jpg",
       "required":false
        
      },
@@ -74,21 +74,21 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "BONIPHACE_TEACH🤞"
+    "value": "DULLAH👊"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255716661569"
+    "value": "255716945971"
 	  
   },
     "WARN_COUNT":
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "3"
+    "value": "5"
   },
   "STARTING_BOT_MESSAGE":
   {
