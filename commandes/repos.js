@@ -3,8 +3,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/boniphace704/BONIPHACE_MD';
-  const img = 'https://telegra.ph/file/00b2cd460495e3fb0a0eb.jpg';
+  const githubRepo = 'https://api.github.com/repos/Fred1e/Dullah-Md';
+  const img = 'https://telegra.ph/file/dcaaa16f7b556d84093f7.jpg';
 
   try {
     const response = await fetch(githubRepo);
@@ -22,18 +22,18 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __f
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow Friend
-this is* *Boniphace_md 💥.*\n get session id *by*, *https://bini-pair-ab790135c860.herokuapp.com/pair/
+this is* *Dullah-md 👊.*\n 
 
 🗼 *REPOSITORY:* ${data.html_url}
 💫 *STARS:* ${repoInfo.stars}
 🧧 *FORKS:* ${repoInfo.forks}
 📅 *RELEASE DATE:* ${releaseDate}
 🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
-🙊 *OWNER:* *Boniphace tech*
-🍃 *THEME:* *BONIPHACE MD*
-🍷 *A strong man can never shaken by any one 🤞*
+🙊 *OWNER:* *Mr Dulla*
+🍃 *THEME:* *DULLAH MD*
+🍷 *Am Safe To Fight In My Life*
 __________________________________
-            *Made With Boniphace Teach*`;
+            *Made With Dulla*`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
