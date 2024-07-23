@@ -76,7 +76,7 @@ star✨ my repo bruh don't forget please🤖
 CONTACT DEVELOPER ON WHATSAPP 
 
 <a href="https://wa.me/255716945971" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Boniphace tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Dulla contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
   
