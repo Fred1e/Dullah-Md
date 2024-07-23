@@ -1,10 +1,10 @@
-## BONIPHACE MD 💥
+## Dullah Md 💫✔️
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Dullah+Md+Created+by+Dulla.&heart;++;Self-taught+Back-Created+By,;Fredie+Tech+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f">
  <img alt="Dullah Md😎" height="300" src="https://telegra.ph/file/f0f8ef25b35b76be901a7.jpg">
   
 </h1> 
-<p align="center">l introduce <b>Dullah Md</b>, a  simple WhatsApp bot Created By Dulla</p>
+<p align="center">l introduce <b>Dullah-Md</b>, a  simple WhatsApp bot Created By Dulla</p>
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{Fred1e}/count.svg" alt="Dullah Md :: Visitor's Count" /></p>
@@ -12,12 +12,12 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Fred1e/Dullah Md"><b>boniphace_md</b></a> Support Deploy On...
+  <a href="https://github.com/Fred1e/Dullah-Md"><b>Dullah Md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/Fred1e/Dullah Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Fred1e/Dullah Md/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://github.com/Fred1e/Dullah-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Fred1e/Dullah-Md/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://youtu.be/izoxfW3anrU"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 
@@ -42,7 +42,7 @@
 ## Fork Dullah Md 💥 Repo
 
 
-<a href="https://github.com/Fred1e/Dullah Md/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://github.com/Fred1e/Dullah-Md/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 star✨ my repo bruh don't forget please🤖
 
@@ -67,7 +67,7 @@ star✨ my repo bruh don't forget please🤖
 
 **2. If You Have Account On Heroku**
 
-   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/Dullah Md/tree/main)***
+   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/Dullah-Md/tree/main)***
 
 ##
 
