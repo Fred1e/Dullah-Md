@@ -30,7 +30,7 @@ zokou({
        
       let infoMess = {
   image: { url: videos[0].thumbnail },
-  caption: `╭━━Boniphace md 🅱️ downloader menu━━╮
+  caption: `╭━━Dullah md downloader menu━━╮
 *Song Name:* ${videos[0].title}
 
 *Uploaded:* ${videos[0].ago}
@@ -41,7 +41,7 @@ zokou({
 
 Views: ${videos[0].views}`,
         
-  whatsapp: "Join my WhatsApp channel: 'https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G'"
+  whatsapp: "Join my WhatsApp channel: 'https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f'"
 };
      
 
@@ -179,7 +179,7 @@ zokou({
 
       let InfoMess = {
   image: { url: Element.thumbnail },
-  caption: `╭━━Boniphace md 🅱️ download menu━━╮
+  caption: `╭━━Dullah md  download menu━━╮
 *Video Name:* ${Element.title}
 *Uploaded:* ${Element.ago}
 *Author:* ${Element.author.name}
@@ -211,7 +211,7 @@ _*Downloading...*_`
 
       fileStream.on('finish', () => {
         // Envoi du fichier vidéo en utilisant l'URL du fichier local
-        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*joel md", gifPlayback: false }, { quoted: ms });
+        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*lucky md", gifPlayback: false }, { quoted: ms });
       });
 
       fileStream.on('error', (error) => {
