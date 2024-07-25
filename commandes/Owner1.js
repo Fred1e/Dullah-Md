@@ -31,7 +31,7 @@ zokou({ nomCom: "deployer", categorie: "General" }, async (dest, zk, commandeOpt
 const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
-  let infoMsg =  `> Hello ${nomAuteurMessage} you requested for my deployer😌\n *${s.OWNER_NAME}* is my Charming good looking deployer🍂💋.\n\n> Powered by Boniphace Tech `;
+  let infoMsg =  `> Hello ${nomAuteurMessage} you requested for my deployer😌\n *${s.OWNER_NAME}* is my Charming good looking deployer🍂💋.\n\n> Powered by Dulla `;
 
    var lien = mybotpic();
 
@@ -47,7 +47,7 @@ const date = moment().format('DD/MM/YYYY');
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Best coder md*, déveloper joelTech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Dullah md*, déveloper Dulla" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
