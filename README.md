@@ -62,21 +62,28 @@ star✨ my repo bruh don't forget please🤖
  GET SESSION ID BY
  
 
-<a href="https://dullah-md-d0135bf3ec53.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=blue&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://dullah-pair-365b35dde6b8.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
  
-<a href="https://dullah-md-d0135bf3ec53.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=blue&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://dullah-pair-365b35dde6b8.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
 ## 3.THIRD STEP 
 **1. If You Don't Have An Account On Heroku**
 - <a href="https://signup.heroku.com">
- <img src="https://img.shields.io/badge/Create%20Account%20Now-purple?style=for-the-badge&logo=heroku" width="100" height="38.45"/></a></p>
+ <img src="https://img.shields.io/badge/Create%20Account%20Now-red?style=for-the-badge&logo=heroku" width="100" height="38.45"/></a></p>
 
 **2. If You Have Account On Heroku**
 
    ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/Dullah-Md/tree/main)***
+
+
+   
+### 4. DEPLOY ANY BOT YOU LIKE HERE
+
+<br>
+<a href="https://github.com/Frecyber/BOTS-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/BOTS-SITE -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 ##
 
