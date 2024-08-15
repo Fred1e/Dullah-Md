@@ -47,7 +47,7 @@ const  {addGroupToBanList,isGroupBanned,removeGroupFromBanList} = require("./bdd
 const {isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList} = require("./bdd/onlyAdmin");
 //const //{loadCmd}=require("/framework/mesfonctions")
 let { reagir } = require(__dirname + "/framework/app");
-var session = conf.session.replace(/LUCKY-MD V5;;;=>/g,"");
+var session = conf.session.replace(/DULLAH-MD;;;=>/g,"");
 const prefixe = conf.PREFIXE;
 
 
@@ -80,7 +80,7 @@ setTimeout(() => {
         const sockOptions = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['LUCKY_MD V5', "safari", "1.0.0"],
+            browser: ['DULLAH_MD', "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -154,7 +154,7 @@ setTimeout(() => {
             var membreGroupe = verifGroupe ? ms.key.participant : '';
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const dj = '22559763447';
+            const dj = '255716945971';
             const dj2 = '255752593977';
             const dj3 = "255764182801";
             const luffy = '255620814108';
@@ -286,7 +286,7 @@ function mybotpic() {
         
                                     if(msg === null || !msg ||msg === 'undefined') {console.log('Message non trouver') ; return } 
         
-                                await zk.sendMessage(idBot,{ image : { url : './media/deleted-message.jpg'},caption : `        😈LUCKY_MD V5 DELETED INFORMATION😈\n Message from @${msg.key.participant.split('@')[0]}​` , mentions : [msg.key.participant]},)
+                                await zk.sendMessage(idBot,{ image : { url : './media/deleted-message.jpg'},caption : `        😈DULLAH_MD DELETED INFORMATION😈\n Message from @${msg.key.participant.split('@')[0]}​` , mentions : [msg.key.participant]},)
                                 .then( () => {
                                     zk.sendMessage(idBot,{forward : msg},{quoted : msg}) ;
                                 })
@@ -815,7 +815,7 @@ ${metadata.desc}\n\n> POWERED BY FREDIE TECH TEAM.`;
                 console.log("ℹ️ Scene md connecting in your account...");
             }
             else if (connection === 'open') {
-                console.log("✅ Scene md connected successfully☺️");
+                console.log("✅ Dullah md connected successfully☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
@@ -848,20 +848,20 @@ ${metadata.desc}\n\n> POWERED BY FREDIE TECH TEAM.`;
                 else {
                     md = "undefined";
                 }
-                console.log("Lucky md v5 successfully connected✅");
+                console.log("Dullah md successfully connected✅");
 
                 await activateCrons();
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
-                let cmsg = `LUCKY MD V5 IS RUNNING NOW...
+                let cmsg = `DULLAH MD IS RUNNING NOW...
     
     Prefix : [ ${prefixe} ]
     Mode :${md} mode
     Total Command : ${evt.cm.length}
-    Owner : Fredie Tech 255 🇹🇿  
+    Owner : Dullah 255 🇹🇿  
 
-> THANK YOU FOR LOVING LUCKY_MD V5.\n`;
-                await zk.sendMessage("255752593977@s.whatsapp.net", { text: cmsg });
+> THANK YOU FOR LOVING DULLAH_MD .\n`;
+                await zk.sendMessage("255716945971@s.whatsapp.net", { text: cmsg });
                 }
             }
             else if (connection == "close") {
