@@ -112,8 +112,8 @@ The WhatsApp Bot Dullah MD V2💫 is released under the [MIT License](https://op
 ## DEVELOPERS :
 
 - [**DULLAH SIR**](https://github.com/abdallahsalimjuma)
-- [**DULLAH MD V2 1**](https://github.com/abdallahsalimjuma)
-- [**DULLAH MD 2**](https://github.com/abdallahsalimjuma)
+- [**DULLAH MD V2 **](https://github.com/abdallahsalimjuma)
+- [**DULLAH MD **](https://github.com/abdallahsalimjuma)
 - [**Developers WA Group**](https://chat.whatsapp.com/GufiUEQ7Jj1D2kszcZqOgx)
 - [**Developers YouTube**](https://youtube.com/@herokuplatform)
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
