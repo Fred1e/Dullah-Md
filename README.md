@@ -1,6 +1,6 @@
-## Dullah Md 💫✔️
+## Dullah Md V2 💫✔️
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Dullah+Md+Created+by+Dulla.&heart;++;Self-taught+Back-Created+By,;Fredie+Tech+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
- <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f">
+ <a href="https://whatsapp.com/channel/GufiUEQ7Jj1D2kszcZqOgx">
  <img alt="Dullah Md😎" height="300" src="https://telegra.ph/file/f0f8ef25b35b76be901a7.jpg">
   
 </h1> 
@@ -12,12 +12,12 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Fred1e/Dullah-Md"><b>Dullah Md</b></a> Support Deploy On...
+  <a href="https://github.com/abdallahsalimjuma/Dullah-Md"><b>Dullah Md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/Fred1e/Dullah-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Fred1e/Dullah-Md/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://github.com/abdallahsalimjuma/Dullah-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/abdallahsalimjuma/Dullah-Md/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://youtu.be/izoxfW3anrU"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 
@@ -29,7 +29,7 @@
 href="https://www.facebook.com/100087010467670"><img title="Author" src="https://img.shields.io/badge/ON Facebook-blue?style=for-the-badge&logo=facebook"></a>
 - <a
 href="https://wa.me/255716945971"><img title="Author" src="https://img.shields.io/badge/ON WhatsApp-pupple?style=for-the-badge&logo=watsapp"></a>
-- <a href="https://chat.whatsapp.com/CP2BirU5pBj04cXXgEbfuv"><img title="Author" src="https://img.shields.io/badge/ON Wa Group-green?style=for-the-badge&logo=watsapp"></a>
+- <a href="https://chat.whatsapp.com/GufiUEQ7Jj1D2kszcZqOgx"><img title="Author" src="https://img.shields.io/badge/ON Wa Group-green?style=for-the-badge&logo=watsapp"></a>
 - <a href="https://youtube.com/@herokuplatform?si=kl684fKNUpxTFig2"><img title="Author" src="https://img.shields.io/badge/ON YouTube-darkred?style=for-the-badge&logo=youtube"></a>
 
     
@@ -44,14 +44,14 @@ href="https://wa.me/255716945971"><img title="Author" src="https://img.shields.i
 
 
 
-## HOW TO DEPLOY DULLAH MD🍃
+## HOW TO DEPLOY DULLAH MD V2🍃
 
 
 ## 1.FIRST STEP 
 ## Fork Dullah Md 💥 Repo
 
 
-<a href="https://github.com/Fred1e/Dullah-Md/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://github.com/abdallahsalimjuma/Dullah-Md/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 star✨ my repo bruh don't forget please🤖
 
@@ -83,7 +83,7 @@ star✨ my repo bruh don't forget please🤖
 ### 4. DEPLOY ANY BOT YOU LIKE HERE
 
 <br>
-<a href="https://github.com/Frecyber/BOTS-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/BOTS-SITE -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/Dullah-md/BOTS-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/BOTS-SITE -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 ##
 
@@ -92,29 +92,29 @@ star✨ my repo bruh don't forget please🤖
 CONTACT DEVELOPER ON WHATSAPP 
 
 <a href="https://wa.me/255716945971" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Dulla contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Dullah contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
   
  
-<a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f" target="_blank">
+<a href="https://whatsapp.com/channel/GufiUEQ7Jj1D2kszcZqOgx" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/WhatsApp  Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 
 ## License
 
-The WhatsApp Bot Dullah MD💫 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot Dullah MD V2💫 is released under the [MIT License](https://opensource.org/licenses/MIT).
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-💫THANK YOU FOR CHOOSING Dullah Md💫
+💫THANK YOU FOR CHOOSING Dullah Md V2💫
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## DEVELOPERS :
 
 - [**DULLAH SIR**](https://github.com/abdallahsalimjuma)
-- [**FREDIE TECH 1**](https://github.com/Fred1e)
-- [**FREDIE TECH 2**](https://github.com/Frecyber)
-- [**Developers WA Group**](https://chat.whatsapp.com/CP2BirU5pBj04cXXgEbfuv)
+- [**DULLAH MD V2 1**](https://github.com/abdallahsalimjuma)
+- [**DULLAH MD 2**](https://github.com/abdallahsalimjuma)
+- [**Developers WA Group**](https://chat.whatsapp.com/GufiUEQ7Jj1D2kszcZqOgx)
 - [**Developers YouTube**](https://youtube.com/@herokuplatform)
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
