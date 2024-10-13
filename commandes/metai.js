@@ -141,4 +141,4 @@ imageCommands.forEach(({ nomCom, category }) => {
     await generateImage(messageId, sender, query, category);
   });
 });
-￼Enter
+
