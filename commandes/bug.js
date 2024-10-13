@@ -34,7 +34,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
 let infoMsg =  `
-━━━━❍ *DULLAH 𝙈𝘿 BOT-𝘾𝙍𝘼𝙎𝙃* ❍━━━━
+━━━━❍ *DULLAH-MD-CRASH* ❍━━━━
 ╭─────────────────────❍ 
 │ bug
 │ crash
