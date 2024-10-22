@@ -2,7 +2,7 @@ const { zokou } = require("../framework/zokou");
 const axios = require("axios");
 
 zokou({
-  nomCom: "lyrics",
+  nomCom: "mistari",
   reaction: '✨',
   categorie: "Search"
 }, async (messageId, chatId, { repondre, arg, ms }) => {
