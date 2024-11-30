@@ -1,5 +1,5 @@
-  "name":"DULLAH MD BOT V2",
-  "description":"Best whatsapp bot created by MR DULLAH",
+  "name":"DULLAH MD V2",
+  "description":"Best whatsapp bot created by DULLAH",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/hegdag.jpg",
   "repository":"https://github.com/Fred1e/Dullah-Md",
@@ -46,7 +46,7 @@
     "BOT_NAME" : {
 
       "description":"put A name for your bot",
-      "value":"DULLAH-MD",
+      "value":"DULLAH-MD 💥",
       "required":false
 
     } ,
@@ -85,7 +85,7 @@
 
     "desc": "Your Name",
     "required": false,
-    "value": "DULLAH"
+    "value": "DULLAH 👊"
   },
     "NUMERO_OWNER":
   {
