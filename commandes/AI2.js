@@ -14,7 +14,7 @@ zokou({nomCom:"dullah",reaction:"📡",categorie:"Ai"},async(dest,zk,commandeOpt
   const {repondre,ms,arg}=commandeOptions;
   
     if(!arg || !arg[0])
-    {return repondre("yes I'm listening to you.")}
+    {return repondre("Nambie Nakusikiliza mkuu unasemaje.")}
     //var quest = arg.join(' ');
   try{
     
