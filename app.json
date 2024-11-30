@@ -1,7 +1,7 @@
-  "name":"DULLAH-MD BOT V2",
+  "name":"DULLAH MD BOT V2",
   "description":"Best whatsapp bot created by MR DULLAH",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/l1i9o4.jpg",
+  "logo":"https://files.catbox.moe/hegdag.jpg",
   "repository":"https://github.com/Fred1e/Dullah-Md",
   "succes_url":"/",
   "stack":"container",
@@ -53,7 +53,7 @@
      "BOT_MENU_LINKS" : {
 
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/l1i9o4.jpg",
+      "value":"https://files.catbox.moe/hegdag.jpg",
       "required":false
 
      },
