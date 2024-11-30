@@ -9,7 +9,7 @@ const conf = require('../set');
 
 
 
-zokou({nomCom:"tkm",reaction:"📡",categorie:"Ai"},async(dest,zk,commandeOptions)=>{
+zokou({nomCom:"dullah",reaction:"📡",categorie:"Ai"},async(dest,zk,commandeOptions)=>{
 
   const {repondre,ms,arg}=commandeOptions;
   
