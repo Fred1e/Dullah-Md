@@ -21,7 +21,7 @@ zokou(
         const {message , lien} = data;
 
 
-        var mode = "public";
+        var mode = "private";
         if ((s.MODE).toLocaleLowerCase() != "yes") {
             mode = "private";
         }
@@ -43,15 +43,15 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *DULLAH✔️-MD-WABOT*`
+ *Mr b²💥✔️-MD-WABOT*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
         zk.sendMessage(dest, { video: { url: lien }, caption: alivemsg }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("💥💥 Menu erreur " + e);
+        repondre("💥💥 Menu erreur " + e);
     }
 } 
 // Checking for .jpeg or .png
@@ -60,8 +60,8 @@ else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
         zk.sendMessage(dest, { image: { url: lien }, caption: alivemsg }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("💥💥 Menu erreur " + e);
+        repondre("💥💥 Menu erreur " + e);
     }
 } 
 else {
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Hello👋 , *DULLAH-MD BOT* is alive just like you my guy😜. ')
+repondre(' Hello👋 , *Mr b²💥 BOT* is alive just like you my guy😜. ')
 
 }
     });
