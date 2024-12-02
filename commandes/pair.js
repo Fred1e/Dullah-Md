@@ -858,7 +858,7 @@ ${metadata.desc}\n\n> POWERED BY MR DULLAH.`;
     Prefix : [ ${prefixe} ]
     Mode :${md} mode
     Total Command : ${evt.cm.length}
-    Owner : Fredie Tech 255 🇹🇿  
+    Owner : Dullah Md 255 🇹🇿  
 
 > THANK YOU FOR LOVING DULLAH_MD V2.\n`;
                 await zk.sendMessage("255716945971@s.whatsapp.net", { text: cmsg });
