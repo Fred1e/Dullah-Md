@@ -44,7 +44,7 @@ zokou({
         }, {
           'quoted': _0xf0f09
         });
-        _0x143995("*NIMEMALIZA MKUU DOWNLOAD BY DULLAH MD*...");
+        _0x143995("*SUCCESSFULLY DOWNLOAD BY DULLAH MD*...");
       } else {
         _0x143995("Failed to download audio. Please try again later.");
       }
@@ -98,7 +98,7 @@ zokou({
         }, {
           'quoted': _0x1ec728
         });
-        _0x441d2d("*nimemaliza mkuu downloaded by dullah md*...");
+        _0x441d2d("*successfully downloaded by dullah md*...");
       } else {
         _0x441d2d("Failed to download audio. Please try again later.");
       }
@@ -139,7 +139,7 @@ zokou({
           'image': {
             'url': _0x2e9784[0].thumbnail
           },
-          'caption': "YESSER MD VIDEO DOWNLOADER\n\n╭───────────────◆\n│ *Title:* " + _0x2e9784[0].title + "\n│ *Quality:* 720p-HD\n│ *Duration:* " + _0x2e9784[0].timestamp + "\n│ *Viewers:* " + _0x2e9784[0].views + "\n│ *Uploaded:* " + _0x2e9784[0].ago + "\n│ *Artist:* " + _0x2e9784[0].author.name + "\n╰────────────────◆\n⦿ *Direct YtLink:* " + _0x291265 + "\n\n╭────────────────◆\YESSER TECH\n╰─────────────────◆"
+          'caption': "DULLAH MD VIDEO DOWNLOADER\n\n╭───────────────◆\n│ *Title:* " + _0x2e9784[0].title + "\n│ *Quality:* 720p-HD\n│ *Duration:* " + _0x2e9784[0].timestamp + "\n│ *Viewers:* " + _0x2e9784[0].views + "\n│ *Uploaded:* " + _0x2e9784[0].ago + "\n│ *Artist:* " + _0x2e9784[0].author.name + "\n╰────────────────◆\n⦿ *Direct YtLink:* " + _0x291265 + "\n\n╭────────────────◆\MR DULLAH\n╰─────────────────◆"
         };
         await _0x26eaa4.sendMessage(_0x4cd451, _0x2e97ec, {
           'quoted': _0x38072b
@@ -153,7 +153,7 @@ zokou({
         }, {
           'quoted': _0x38072b
         });
-        _0x423915("*NIMEMALIZA MKUU DOWNLOAD BY DULLAH MD*...");
+        _0x423915("*SUCCESSFULLY DOWNLOAD BY DULLAH MD*...");
       } else {
         _0x423915("Failed to download the video. Please try again later.");
       }
@@ -220,7 +220,7 @@ zokou({
     'binDd': function (_0x48949a, _0x3ad9d9) {
       return _0x48949a(_0x3ad9d9);
     },
-    'TsVkB': "*NIMEMALIZA MKUU DOWNLOAD BY DULLAH MD*...",
+    'TsVkB': "*SUCCESSFULLY DOWNLOAD BY DULLAH MD*...",
     'smfdF': "Failed to download the video. Please try again later.",
     'gbLuA': function (_0x1d0daf, _0x372d8e) {
       return _0x1d0daf(_0x372d8e);
