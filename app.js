@@ -1,14 +1,14 @@
 {
-  "name": "HANS-MD",
-  "description": "This BOT was developed by Hanstztech.",
+  "name": "DULLAH-MD V2",
+  "description": "This BOT was developed by Mr dullah.",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://files.catbox.moe/l1i9o4.jpg",
-  "repository": "https://github.com/Mrhanntz/HANS-MD",
+  "logo": "https://files.catbox.moe/hegdag.jpg",
+  "repository": "https://github.com/fred1e/DULLAH-MD",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -44,12 +44,12 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "HANS-MD",
+      "value": "DULLAH-MD 🤖",
       "required": false
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/l1i9o4.jpg",
+      "value":"https://files.catbox.moe/hegdag.jpg",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -75,12 +75,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "HANS TZ"
+      "value": "DULLAH MD 👊"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "255760774888"
+      "value": "255716945971"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
@@ -90,7 +90,7 @@
     "STARTING_BOT_MESSAGE": {
       "description": "if you don't want startting-bot-message put no else put yes",
       "required": true,
-      "value": "yes"
+      "value": "no"
     },
     "PRESENCE": {
       "description": "Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
