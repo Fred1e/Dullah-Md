@@ -1,6 +1,6 @@
 {
   "name": "DULLAH-MD V2",
-  "description": "This BOT was developed by Mr dullah.",
+  "description": "This BOT was developed by dullah.",
   "keywords": [
     "bot",
     "node",
@@ -44,7 +44,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "DULLAH-MD 🤖",
+      "value": "DULLAH-MD",
       "required": false
     },
     "BOT_MENU_LINKS": {
@@ -75,7 +75,7 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "DULLAH MD 👊"
+      "value": "DULLAH MD"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
