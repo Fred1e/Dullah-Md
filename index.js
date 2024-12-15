@@ -1084,7 +1084,7 @@ setTimeout(() => {
           console.log("chargement des commandes terminé ✅");
           await _0x54cadd();
           if (conf.DP.toLowerCase() === "yes") {
-            let _0xbfbb6 = "╭════⊷\n║ *『DULLAHH-𝐌𝐃 𝐢𝐬 𝐎𝐧𝐥𝐢𝐧𝐞』*\n║    Creator: *dullahee*\n║    Prefix : [ " + prefixe + " ]\n║    Mode :" + _0xec682b + "\n║    Total Commands : " + evt.cm.length + "︎\n╰═════════════════⊷\n\n╭───◇\n┃\n┃ *Thank you for choosing*                      \n┃  *LDULLAH-MD*\n> Regards kdullaheh \n╰═════════════════⊷";
+            let _0xbfbb6 = "╭════⊷\n║ *『DULLAHH-𝐌𝐃 𝐢𝐬 𝐎𝐧𝐥𝐢𝐧𝐞』*\n║    Creator: *dullah*\n║    Prefix : [ " + prefixe + " ]\n║    Mode :" + _0xec682b + "\n║    Total Commands : " + evt.cm.length + "︎\n╰═════════════════⊷\n\n╭───◇\n┃\n┃ *Thank you for choosing*                      \n┃  *LDULLAH-MD*\n> Regards Mr dullah \n╰═════════════════⊷";
             const _0x23ba36 = {
               text: _0xbfbb6
             };
