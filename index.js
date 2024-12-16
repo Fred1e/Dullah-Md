@@ -904,7 +904,7 @@ setTimeout(() => {
       try {
         _0x4d571f = await _0x25e00e.profilePictureUrl(_0x286af2.id, "image");
       } catch {
-        _0x4d571f = "https://telegra.ph/file/c66d12099fb7a4f62d70a.jpg";
+        _0x4d571f = "https://files.catbox.moe/hegdag.jpg";
       }
       try {
         const _0x4a1fc7 = await _0x25e00e.groupMetadata(_0x286af2.id);
@@ -926,7 +926,7 @@ setTimeout(() => {
           _0x25e00e.sendMessage(_0x286af2.id, _0x5bb81c);
         } else {
           if (_0x286af2.action == "remove" && (await _0x131f2b(_0x286af2.id, "goodbye")) == 'on') {
-            let _0x120816 = "Another idiot has just left the group.Anyway we will miss you very much comradeðŸ¤ powered by *DULLAH-MD* \n\n>  *Regards DULLAHee*;\n";
+            let _0x120816 = "Another idiot has just left the group.Anyway we will miss you very much comradeðŸ¤ powered by *DULLAH-MD* \n\n>  *Regards DULLAHMD*;\n";
             let _0x1107c8 = _0x286af2.participants;
             for (let _0x4ea831 of _0x1107c8) {
               _0x120816 += '@' + _0x4ea831.split('@')[0] + "\n";
@@ -989,7 +989,7 @@ setTimeout(() => {
             let _0x31d581 = _0x23b5e5[_0x152ead].mute_at.split(':');
             console.log("etablissement d'un automute pour " + _0x23b5e5[_0x152ead].group_id + " a " + _0x31d581[0] + " H " + _0x31d581[1]);
             const _0x1e0395 = {
-              timezone: "Bungoma,Kenya"
+              timezone: "Daresalam,Tanzania"
             };
             _0x41c5f8.schedule(_0x31d581[1] + " " + _0x31d581[0] + " * * *", async () => {
               await _0x25e00e.groupSettingUpdate(_0x23b5e5[_0x152ead].group_id, "announcement");
@@ -1007,7 +1007,7 @@ setTimeout(() => {
             let _0x3522f4 = _0x23b5e5[_0x152ead].unmute_at.split(':');
             console.log("etablissement d'un autounmute pour " + _0x3522f4[0] + " H " + _0x3522f4[1] + " ");
             const _0x1dca14 = {
-              timezone: "Bungoma,Kenya"
+              timezone: "Daresalam,Tanzania"
             };
             _0x41c5f8.schedule(_0x3522f4[1] + " " + _0x3522f4[0] + " * * *", async () => {
               await _0x25e00e.groupSettingUpdate(_0x23b5e5[_0x152ead].group_id, "not_announcement");
@@ -1084,7 +1084,7 @@ setTimeout(() => {
           console.log("chargement des commandes terminÃ© âœ…");
           await _0x54cadd();
           if (conf.DP.toLowerCase() === "yes") {
-            let _0xbfbb6 = "â•­â•â•â•â•âŠ·\nâ•‘ *ã€ŽDULLAHH-ðŒðƒ ð¢ð¬ ðŽð§ð¥ð¢ð§ðžã€*\nâ•‘    Creator: *dullahee*\nâ•‘    Prefix : [ " + prefixe + " ]\nâ•‘    Mode :" + _0xec682b + "\nâ•‘    Total Commands : " + evt.cm.length + "ï¸Ž\nâ•°â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•âŠ·\n\nâ•­â”€â”€â”€â—‡\nâ”ƒ\nâ”ƒ *Thank you for choosing*                      \nâ”ƒ  *LDULLAH-MD*\n> Regards kdullaheh \nâ•°â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•âŠ·";
+            let _0xbfbb6 = "â•­â•â•â•â•âŠ·\nâ•‘ *ã€ŽDULLAHH-ðŒðƒ ð¢ð¬ ðŽð§ð¥ð¢ð§ðžã€*\nâ•‘    Creator: *dullahmd*\nâ•‘    Prefix : [ " + prefixe + " ]\nâ•‘    Mode :" + _0xec682b + "\nâ•‘    Total Commands : " + evt.cm.length + "ï¸Ž\nâ•°â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•âŠ·\n\nâ•­â”€â”€â”€â—‡\nâ”ƒ\nâ”ƒ *Thank you for choosing*                      \nâ”ƒ  *LDULLAH-MD*\n> Regards dullahmd \nâ•°â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•âŠ·";
             const _0x23ba36 = {
               text: _0xbfbb6
             };
