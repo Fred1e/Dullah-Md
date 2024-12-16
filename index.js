@@ -989,7 +989,7 @@ setTimeout(() => {
             let _0x31d581 = _0x23b5e5[_0x152ead].mute_at.split(':');
             console.log("etablissement d'un automute pour " + _0x23b5e5[_0x152ead].group_id + " a " + _0x31d581[0] + " H " + _0x31d581[1]);
             const _0x1e0395 = {
-              timezone: "Daresalam,Tanzania"
+              timezone: "Bungumo,Kenya"
             };
             _0x41c5f8.schedule(_0x31d581[1] + " " + _0x31d581[0] + " * * *", async () => {
               await _0x25e00e.groupSettingUpdate(_0x23b5e5[_0x152ead].group_id, "announcement");
@@ -1007,7 +1007,7 @@ setTimeout(() => {
             let _0x3522f4 = _0x23b5e5[_0x152ead].unmute_at.split(':');
             console.log("etablissement d'un autounmute pour " + _0x3522f4[0] + " H " + _0x3522f4[1] + " ");
             const _0x1dca14 = {
-              timezone: "Daresalam,Tanzania"
+              timezone: "Bungumo,Kenya"
             };
             _0x41c5f8.schedule(_0x3522f4[1] + " " + _0x3522f4[0] + " * * *", async () => {
               await _0x25e00e.groupSettingUpdate(_0x23b5e5[_0x152ead].group_id, "not_announcement");
