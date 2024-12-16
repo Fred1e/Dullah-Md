@@ -2,7 +2,7 @@ function _0x120e74(_0x241a51, _0x81fdde, _0x48faa1, _0x5b978e, _0x2c2516) {
   return _0x4cf4(_0x81fdde + 0x130, _0x2c2516);
 }
 function _0x5327() {
-  const _0x64553b = ['vkIFO', 'extna', "n cou", "; say", 'dSave', 'des', 'qHtEY', 'XkUhd', 'OWBAn', 'PVdQl', 'uMZNY', 'not_a', "y *DU", 'siiKU', 'eAdmi', 'TygUp', 'GRcda', 'KvZzd', 'SVzfs', 'OoKOa', 'DogWp', "re ba", 'tSTgX', 'beZQU', 'TbcGk', "age💥\n", 'qJUAN', 'RPeET', 'FtWHl', 'dkCfJ', 'input', 'watch', 'csHoz', 'nProp', 'lckoP', 'ntent', 'leurs', " a nu", "ed , ", 'fjzGv', 'key', 'tXBPZ', 'mOGSO', 'CplUE', '.jpg', "is\")(", 'zcZha', 'FULL', 'parti', 'yxLzv', '://', "roup ", 'ding', 'gaEwL', "bot c", 'NZCTB', 'iLYhx', 'comma', 'BudbE', 'EkeZa', 'VmBFJ', 'LiQCc', 'qOfEW', "from ", 'zocXy', 'oTnqC', 'ction', 'Edfvq', "g*   ", '/banG', 'MCCIg', 'ySbOm', 'IkxKd', '__esM', " qr s", 'mimet', 'UuMhp', 'lrAOB', 'WaIQD', '/only', 'warn_', 'ble', 'RmpAL', 'Pmrse', '.js', 'zHxSC', 'reNTf', 'PEwtJ', '0|4|1', 'AAEYC', 's.jso', 'ccrRh', 'a-zA-', 'IkKCV', 'table', 'valid', 'zA-Z_', 'AvAyF', 'TdUCf', 'kfczI', "s act", 'bsufD', 'iCcRX', 'prtpT', 'xIehL', 'eySto', 'POkuF', "e to ", 'XvHBs', '-form', 'bited', 'one', 'wZrQa', 'zwntO', 'ferme', 'uqPnn', "ted ,", 'hDmME', '.us', 'CwTrD', 'sage', "     ", '╭═══◇', 'toFil', 'DiNcf', "ted t", 'DylCE', '@hapi', 'LWEWK', 'ilTID', " remo", "n to ", 'redém', "r svp", "ON*  ", 'tjwmK', "\\+\\+ ", 'hsBvx', " !!!", 'QSoxe', 'mJXSV', 'Messa', 'Nrwnk', 'KacVu', 'ieRzD', 'NUMER', 'xtMes', 'and!', 'link.', 'VMohD', " \n   ", "cée ,", 'CGLfB', "au se", '*(?:[', 'NkCgA', 'orpJm', 'kvYCZ', 'outes', 'giryW', 'GLqAm', 'DOWNL', 'fOBhg', 'mVxAT', 'KwPmM', '_proc', 'trim', 'bIEBq', "été a", 'morni', '/boom', '__imp', "le bo", 'VrsYd', "ye \n ", "ur ", 'fCVry', 'Qurea', '0-9a-', 'XfBEX', 'atter', 'HcRxV', 'split', 'iptio', 'qspJV', 'gEohU', 'iwnCv', 'qNhlG', 'OdrJJ', 'LprNX', 'XqtdE', '__pro', 'gaiEm', 'w.git', 'slice', 'ntly,', 'exion', 'uXpOF', 'OVWfG', 'repla', 'IBnPK', 'sleep', 'UyYam', 'VZYkp', 'hasOw', "ing o", 'BrqHL', 'ejXmF', 'level', 'XPywR', 'dbgbA', " n'a ", 'assig', 'strea', 'ygWjh', 'eKfrb', 'PoYUg', 're.js', 'issem', 'DULLAH', 'cTHMC', "er me", 'image', 'lTXBi', 'BYYmS', 'Close', 'sdgte', 'OshIi', 'aGNQu', 'sObYa', 'tbceJ', 'MxRIP', 'epeat', 'OoDZX', 'TOcmC', 'dMess', 'SBtAr', "n() ", 'init', "e ses", "on id", '@g.us', 'zVNil', 'bleSi', 'mQuPe', 'Hello', 'ssage', 'onnex', " may ", 'bind', 'eys', 'wBGnM', "he an", 'pqAbk', 'CUwtb', 'count', 'ToFil', 'jWSKS', 'iZPKy', 'ti-de', 'oBtTK', 'ccLex', 'setIn', 'READ_', 'rsion', '.net', "er le", "s DULLAH", 'liixJ', 'QGrEQ', 'xgHSv', 'fISsF', 'LXfaf', 'Filte', 'subje', 'colMe', 'HwAFi', 'arrag', "ror O", 'NBPuE', 'ttCiz', 'xpHLM', 'IGdKC', 'qgHkX', 'DGSmc', '/app', 'hfUwM', 'uDUol', "ge de", 'writa', 'dfomQ', 'lGxcd', "\\( *\\", 'tVUKY', 'LLuvC', '@whis', 'delay', 'anLWR', '=====', 'qYKLe', "e sup", 'goodb', 'zPrGI', "e) {}", 'AgElw', 'owXJw', 'Lates', 'BCRca', 'xzcAP', 'HcCNc', 'gwBrh', 'pack', 'ctivé', 'ttonI', 'JVGrw', 'serve', " welc", 'notif', '][]', 'oosin', 'eErXS', 'EERSX', 'sessi', 'XEFvP', 'BZbcS', '/welc', 'EEttV', "out o", 'com/d', 'Srtvm', 'tevjB', 'HgJUx', 'ebp', 'wId', 'WARN_', 'iLKNH', 'MvIys', 'motio', 'lIEOn', 'MODE', '$]*)', " he h", 'WMgJK', 'CQGEl', "ur as", 'HGdWg', " mess", 'byVbu', "lien ", 'UuigR', 'HvmuU', 'VMVCm', 'pkWnV', 'gNoGB', 'ext', 'logge', "Good ", 'qGsCG', '(((.+', "n the", "║ Hel", 'Setti', 'MpDZS', 'ucIwe', 'zovsd', 'uwKgO', 'e', "ive r", 'xOSvx', " \n @", 'ZYwre', 'MVcnS', 'readF', 'conca', "ut mu", 'isons', 'VfGne', 'wxlCc', 'jFMMc', 'beWjA', 'XfEtx', 'CPUJq', 'lAcSH', 'DdnSn', 'add', 'eDefa', "vous ", 'tfRPX', 'VaNgm', "oth ", 'TehyU', 'sPphw', 'bgwAR', "we wi", 'WLWii', 'pushN', ",, un", 'MdUYt', 'MgQnb', 'floor', 'JJIXH', 'delet', "on ru", 'nomCo', 'VIRCw', 'gIHFE', '---/-', 'ljyTc', 'MaceF', "z la ", "\n res", 'TkZMq', '586276WjUyMz', 'faPQK', '}...[', 'video', 'XsMEu', 'useMu', 'GnMYR', 'PGBXO', 'pWxOP', 'OkOXv', 'EOFxk', 'carzO', 'Reaso', "up : ", 'ZzIwG', 'FmgDn', "is ri", 'viola', 'qGDLQ', 'recor', "ding ", 'QpjUB', "y muc", 'eGADt', 'ngUpd', 'EjXWz', 'ypkkD', 'sing', 'essag', 'LaEkO', "┃  *L", "sage ", " _You", 'ZXQOG', 'eJid', 'VYCXO', 'sdEBF', "ue 😞 ", 'ceYYy', 'BAES', "s her", 'oZjhD', " link", 'nomAu', 'TtcCp', 'OTDhk', 'FlPea', "xion ", 'push', 'QlDeA', 'aeyWT', '『DULLAH', 'tNpLG', "on pa", 'OUPvn', 'ring', 'fYGZC', "age f", "igne ", '@s.wh', '20636', 'Tbhhl', 'EORtj', 'utoun', 'xelIO', 'mber', 'actio', "pe : ", 'inclu', "rom a", "t was", 'cting', 'FbcmU', 'rien', 'nrejj', '|2|0', 'quali', 'ikvPR', 'gaBpp', 'timez', 'gGDZl', 'PvQXg', 'roup', 'IOjQp', 'FVchk', 'qwzeT', 'tqgMX', 'yLvIK', "t all", 'tureU', 'mRALY', 'UEFDi', 'Ymiwv', 'cache', 'wYZSM', "Les c", " was ", 'SVXmj', 'VqsKX', 'zLdth', 'kcXOa', "red b", 'GJckA', "have ", 'ctor(', "yway ", 'jZzbm', 'ygncz', 'FBnic', 'e_at', 'tFiwd', 'legra', 'ptor', 'rwnbj', 'uLQJL', "ng; I", 'dmini', 'antib', 'hNVTi', 'PfvkZ', 'terva', "ez re", 'GTdmJ', 'ybnAi', 'pqcQh', 'tXmse', 'unwat', 'LesVa', 'nsIrr', 'tnmWA', '╭════', '-𝐌𝐃◇═', 'ync', 'gger', '12345', 'st1.w', 'Jvalu', " grou", 'cxsRn', 'XiIfR', " (tru", 'VnrcG', 'rBkmp', 'rtReq', 'BlIAg', "ge se", "ed, R", 'NFZBV', 'QCCTU', 'eqXGR', 'xtInf', 'HmuGa', "ion f", 'RDNpu', "   💥A", 'PCGRw', 'cwLye', 'QKQXh', 'chain', "rn th", 'LfxKG', 'ion', 'BEunA', 'njHtN', 'eAuLA', 'HWePw', 'fault', '__cre', 'saDcr', 'seque', "mise ", 'await', 'NEuMP', 'ojcYZ', 'TATUS', 'timeo', 'IoSrG', 'MASIA', 'ltiFi', 'Repla', 'CDkoT', "H-𝐌𝐃 ", "our l", 'RNQSx', 'ZSLbF', '0|2|3', 'aFbwa', 'ions', 'AXWQQ', 'while', "en co", 'hhSgs', 'NVeki', 'sopSg', 'start', "\n @", 'DGgvb', 'write', 'ories', 'JMRKE', 'LXnpC', 'ZWREz', 'O_OWN', 'NpCkm', "    \n", 'répla', 'dMGcH', " Comm", 'TAlcc', 'ssie!', 'CwRyR', 'tkDqZ', '/mp4', 'cts.u', 'listR', 'qocFk', "\n ◇ *", 'xmrMz', 'gawzU', 'Anoth', 'tAhkI', '|0|2', 'rZeHi', 'filte', 'dVSCL', 'JFFVD', "ion *", 'tKHSm', 'XrTWQ', 'eQEpz', 'RfqyJ', "om th", 'xmVZv', "◇\n\n", 'epond', 'hjlRe', 'nceme', '12841', 'nXDmD', 'UhMnL', 'SblbE', 'vKumA', 'jSGsR', 'UBoUE', 'yRWff', 'ZIluj', 'CwQkS', '3112656Nhtcrj', 'ights', 'oAWEF', 'EvhwA', '099fb', 'demot', "a fun", 'ifs', "tive ", "ing ", "is pa", "your ", 'bNbWt', 'STATU', 'KAuCW', 'ddwvq', 'Media', 'JlcWm', 'rsati', 'dDPtY', 'LSAZM', '1.0.0', 'oEfSM', 'UBnVS', 'toLoc', 'werCa', 'FHIjL', 'NzEsM', 'age.j', "p._\n ", 'getOw', 'mwShI', "🕸\n\n", 'rSYbV', 'readM', 'WSAZL', 'aleLo', 'saLaR', 'ges.u', 'Wyyar', 'mtype', 'dKFwi', 'yOcRo', 'JbMxT', 'PM_PE', "ved f", "ore b", 'NOM_O', 'Metad', 'dre', 'UMRiN', 'NzdHx', 'qffso', "ll mi", 'undef', 'zfIfr', 'HdZGi', 'ttyhL', " reac", 'paren', '2d70a', 'categ', 'PREFI', "ng ki", 'User', 'ELxXx', 'TxgFz', 'infos', 'Admin', '/ment', "ours ", 'vPOZT', 'zBxMj', 'beItf', '...', 'ule', 'omman', 'PYLMb', 'ForMe', 'NAOZZ', 'rreur', 'Laakb', 'QXlsO', 'LnAxy', 'GOVvs', 'fuYVm', 'HMynK', 'HmfkN', "lo @", 'iidkx', 'ti-pr', " Avoi", 'zxUCu', 'LMzUk', 'main/', 'XrXRQ', '4|3|1', 'DITMY', 'conve', 'mXzrQ', '/leve', 'ZfWXB', 'IRSKm', "l Com", 'rjFYH', 'omoti', " rest", " Send", 'FileS', 'ghfoC', 'fs-ex', 'MGvsH', 'jidDe', 'wMaCu', 'DPzZI', 'caIJg', 'qQjQc', 'EGHbN', '|3|4', 'oxvpW', 'BsGoh', "ndes ", 'IdUff', 'TZlCu', 'wfivW', 'searc', '25474', 'yrAPA', '-----', "h \n╰═", "lete ", 'e', 'limit', "rs ..", 'type', 'warn', 'RrWRG', 'unlin', 'rable', 'zlPxv', 'EvuVH', 'bzDcU', 'ouver', 'mnBVk', 'oupe', 'text', 'WwxhT', 'Bzmxp', 'glRkc', 'RzGNn', "ft th", 'faghP', 'vBlAm', 'SWEdT', 'Goodb', 'LJLSU', 'MUcpO', 'rwIlG', 'ceaZe', "se of", "you f", 'aIakF', 'ImRnx', 'tWrbS', 'laugh', " des ", "f the", 'LkThj', "ge fr", 'OIDGw', ">  *R", '7a4f6', '/auth', 'FRHeG', "rom g", 'nLkdK', 'bot', '/banU', 'ionMe', 'defin', "t est", 'Cxzub', 'PpSOB', 'JiVYN', 'KHDVi', 'fUGMh', 'YNBOG', "ll be", 'hummm', 'axios', 'dKnKH', 'tLrZu', 'xqNoV', '-mess', 'KYqia', 'redem', ", rec", 'WRvmT', 'jRvuQ', 'getCo', "Link ", '78350', "on In", 'ZxazP', 'wAFZF', 'retur', 'Optio', 'VnPed', 'achea', 'XDULN', 'caAEN', 'ework', " suiv", 'zgFOu', 'lEMFB', 'TbJhw', 'sbKHQ', 'sIIZi', 'QJItH', 'JrdTx', "✅ con", "nt By", 'debu', 'onara', '_coun', 'dullah', 'tion', 'edOns', 'DULLAH', 'romot', 'aFiVS', 'UkeDb', 'nnect', 'IEDJs', "ther ", 'ser', " Mess", 'path', 'UYsbm', '═══◇D', 'ia/ch', 'yUMkp', 'dsFfq', 'pVxpq', 'nctio', 'DPdKB', "... ", 'Sende', 'PbHBX', 'confi', 'pCMsu', 'GQtSL', "d of ", 'ucueG', 'mJrPt', 'MJuVv', 'atsap', 'AsldY', 'juffy', "   Mo", "ge ty", 'fight', 'get', 'conte', 'aftpN', 'ermée', "en st", 'enNio', '25475', 'JEQIT', 'WMZnY', 'enume', 'hAGSf', 'Pntwt', '_id', 'nqhiK', 'sendP', 'tpdzk', 'OWNER', 'exWHz', 'nepmP', "ted, ", '𝐌𝐃◇══', 'readd', 'LoXhj', 'rippe', "ur ..", 'a8000', 'jaleg', 'mands', 'yXCnz', "n'ont", "'un a", 'GpCKy', 'RIPTI', " upgr", 'dOut', "ds he", 'info', 'oadCo', 'cWqJR', 'sWith', " ▶️", 'tBail', 'XcXRb', 'ULLAH-', 'icipa', 'open', 'ccurr', 'estar', 'autho', 'vcWtU', 'tLkTI', 'adgUG', 'bEHny', 'nfCWx', 'URL', "à jou", 'AIMlR', "t be ", 'vwPDE', 'etect', 'JCAnB', "es ra", 'cCmqP', '𝐥𝐢𝐧𝐞』', 'OoUJx', '/anti', 'mNSOt', 'LVhjc', 'OxGrK', 'WzgIy', 'kOoFw', 'RUbDj', 'nfo', " DESC", "rgé p", 'BoFiz', 'gMxmT', 'PxDLR', 'OBUJi', 'mjYMV', '{}.co', 'FxSRz', "as be", 'andes', 'JSdBM', 'aVyOi', 'BfeCM', "- mes", "d sen", 'FXqiF', 'escri', 'icker', 'sMWfp', 'VnWVl', 'gSMxG', 'vPhRJ', 'resta', "oup d", 'DlgUE', 'fnRjG', 'eysVe', 'ma,Ke', 'YadJd', 'qyEJv', 'XJMwX', 'AfABw', 'PYAOP', 'zwiNq', './med', 'AUTO_', 'PmEDP', "ade ;", "bot d", 'uZMxg', '216783ZPJepx', 'saZpP', '2|1|0', 'butto', 'XNoUQ', 'vqXmv', " of r", 'yxTPb', 'XRHwu', 'exten', "ℹ️ Con", 'fromM', 'OESXw', 'ChatJ', 'leAut', 'nhnhB', "de ;\n", './sto', 'error', 'rcqum', 'stick', 'SnGqo', 'FcsHR', 'wa-st', '/cred', 'PIWAC', 'cours', 'KzlKL', "hum ", 'NVBZj', 'ycUno', 'acces', 'nstru', 'WqxMn', 'iyupf', 'remov', 'yclmi', 'vweAO', "An Er", " Tota", '.ph/f', 'elete', 'CIKhd', 'GUNKn', 'fuKJP', "the g", "e cha", 'UxCLr', 'excep', "Cas d", 'nypsH', 'NNhMa', 'fOAxH', "  Cre", " has ", 'JLkRx', '-part', " code", "t's t", 'ess', 'log', "ime t", "te ve", " have", "n (fu", 'oKmng', '01337', 'OsyMg', '/sudo', 'tGSQB', 'NgeMt', 'meUsB', '://ra', "ion e", "ed ;y", 'leted', 'yWFcS', 'ctRep', 'auteu', " inst", 'tLlfT', 'dQqDY', 'kDEga', 'iXvUR', 'strat', 'OCYhL', 'WsFIh', 'ogger', "u are", 'Boom', 'statu', '#0000', 'QLlVr', 'xzAmN', 'UKqlr', 'endsW', 'numbe', ",,, v", "allé ", 'SdjTQ', 'ZWMuL', "\"retu", 'ICeFf', 'pic', 'VZtih', "déjà ", "ed, \n", 'ata', 'ia/de', 'XGAAH', 'JueEA', 'CHQKM', 'WrwCB', 'vTPnI', 'FKHDf', " Pref", 'arg', 'JOZHu', 'IhsVn', 'https', 'shift', 'rVMIF', 'ONoXZ', " warn", 'FQFPq', 'uired', "age =", 'ernan', 'TFOto', 'ome', 'rWJkB', "n en ", 'erCas', "rds k", 'emote', 'geCon', 'COUNT', 'zBfrG', "ss yo", 'tQYeI', 'foWTo', 'gSEdu', "êtes ", 'KEksz', 'safar', 'egETs', 'eProp', 'membr', ", it'", 'hacki', 'QZtjC', " the ", 'hVQWb', "r mus", 'rMess', 'upgra', "e en ", 'File', "je fa", 'vsbGl', 'sPJTu', 'const', 'EOIYG', 'makeI', 'wJjLp', 'value', 'mAjPw', '|2|3', 'ver.g', 'ktZyu', 'hhgMM', '/comm', 'KngoZ', 'antid', "will ", 'LVBUY', 'GXzAC', 'hVswg', '/fram', 'istra', 'LtKgz', "st be", 'pdate', 'keyso', "h com", 'bBCSr', 'idBot', 'lePic', " en c", 'chatJ', 'Objec', "You d", 'bZnUv', 'resen', 'yWgTW', "bdd e", 'TtyyX', 'zokk', 'odule', 'cemen', 'Dpljs', 'ZOKpB', '__set', 'recup', 'outpu', 'RMIT', 'qhgqK', 'zdynh', 'map', "ot ", 'bKGwi', 'bject', 'profi', 'ElSWl', 'aIhie', '.json', 'AyEIU', 'sende', 'BAE5', 'usjZn', 'mOVAI', 'VkCov', 'UHTqa', 'tent.', 'TNBzb', 'sfsYW', 's@bro', 'BqVFm', 'ponse', 'spEDH', 'oaArt', 'YvZjh', 'resol', 'OOlWm', "nt yo", 'node-', 'uLDnl', 'FmhDt', 'Dullah', 'OZLGP', 'badSe', 'strin', 'jHEWC', 'fromB', 'Iiazu', 'AxvNN', 'sMJjl', 'forEa', 'nyJbU', 'jiTdC', 'then', 'mJqBi', 'gHiAd', 'apply', "pas p", 'xXRET', 'cGvsS', 'uKCsP', 'MJlzJ', 'ODSqs', 'defau', 'trans', 'selec', 'cipan', 'vThSc', 'exist', 'psert', 'Uqzia', 'ined', 'sched', "st le", 'jjoTB', " Rega", 'ib/Ut', " érro", 'toLow', 'vKMWx', 'kJuhz', 'loadM', 'ovhBd', 'ate', 'SDGew', 'FGkQm', "═⊷\n  ", 'vTNxy', 'MIiMy', "rom @", '.upda', 'fYrCP', 'ortSt', 'jESWI', " ☺️", 'nding', 'NzTuf', 'fetch', 'AEpNI', 'owner', 'TErdk', 'ZhTjP', "s au ", 'toStr', 'dedTe', 'cron', 'cjjrp', 'state', 'tsapp', 'mFXUd', 'annou', 'ykUwV', "e gro", 'OIqBl', '12036', 'yyDKl', 'ons', 'ZYUBv', 'Pjpsw', " a ", 'hubus', 'NBPbz', 'user', 'oqbxb', 'cpNWP', 'pprim', 'ZjqzE', 'roup.', 'jLGev', 'menti', "\n║   ", 'ertyD', "n rul", 'UqSiH', 'teurM', 'KgeKf', 'OEumQ', 'repon', 'fzMgb', 'fVuAp', 'remot', "u êtr", 'NFvLw', 'test', 'IWdFT', 'unpdo', 'UMdvE', 'cotQj', '31587', 'toBuf', 'leTvV', 'preve', 'makeC', 'LdSEo', 'irSyn', 'desc', 'pCrzM', 'url', 'funct', 'YOKHR', 'RHQDj', 'bErUZ', 'qNNRe', 'HjNDf', '/warn', "ou wi", 'kYXJk', 'sCode', 'XUGdR', "ng ", 'oeXUC', 'AoCxq', 'UbAWa', 'NmBrg', 'qHdFM', 'YSYmB', 'LCeWR', 'CzSOw', "n reu", 'Zokou', 'vLeVR', 'tiVqT', '321730OdDitO', 'cts', 'ZZlvb', 'XPzsZ', 'ype', " perd", 'LCkvV', 'EuVxi', 'kzIGa', 'HHWGd', "pour ", 'termi', 'mUaWf', 'euill', 'utomu', 'quote', 'ement', "e l'e", 'media', 'décon', 'conso', 'pnJSr', 'twdrV', 'e*', 'rveur', 'nya', 'prefi', 'ges', 'welco', 'ils/l', 'Khcxm', "nned ", " conc", 'npBDZ', "ve be", 'erty', 'feteT', 'nnoun', 'conne', 'file-', 'pnGhV', 'NMeSe', 'oUAlI', " *dullah", 'tqQMp', 'promo', 'group', 'chFil', 'LCOKY', 'GROUP', "read ", 'TaahP', 'descr', 'gobbV', 'find', "║ *Yo", 'yes', 'oqZwb', "le, t", '09486', 'beKKR', 'HRrmJ', 'isgAN', 'audio', 'EiKKG', 'ssion', 'nti-d', 'dCqWZ', 'age', 'WRiGY', 'IBbmX', 'espon', 'SyPWy', '631264RnJKom', "⊷\n║ *", 'HRXUY', 'YjuoD', 'msgRe', 'mybot', "de :", "iot h", 'oihCW', 'ile/c', 'bjLYl', 'jYPxm', 'aulDN', 'mbre', 'right', 'LkBKi', 'BcMxM', 'Parti', 'RTBSJ', 'MdBub', 'ced', "e by ", "née v", 'EYeOB', '|4|1', 'forwa', 'pbDPn', 'nexio', 'TxhoO', 'nts.u', 'oZVZf', 'round', "MD*\n>", 'EIibN', 'NNjui', 'ructo', 'necté', 'wLPEn', 'SrMER', 'xIhaO', 'onedJ', 'react', ')+)+)', 'qFTeH', 'GsAko', 'from', 'flFpR', 'SyzbA', 'rn-li', " you ", 'HAZjb', '-Md', 'rade🤝', 'cIuoL', 'Group', 'OITBt', " le c", "omed ", 'CVcjB', "...\n", 'EMMMP', 'YVdOE', " a st", 'mEBtx', 'DXknv', "t : ", "n tro", 'ZLEJd', 'aQgjg', 'heref', 's.wha', 'WRliK', 'Type', 'JxDlW', 'PlWkU', 'hniXU', 'ilabl', 'SQAwh', 'zOJnP', './bdd', 'loJqz', 'JUeFR', 'tUumZ', 'xkypw', 'ADM', 'sJQDp', 'ZhjEN', '555597vaYQJQ', 'close', '/remo', "ns mu", 'eaEkf', 'AmjFC', 'fRjMw', 'quqIJ', 'HZkkx', 'VyhEY', 'tedRo', 'JLZCk', 'nosMd', ".... ", 'wEVFU', "id mu", 'rando', 'eachi', "vp ..", 'antii', 'uille', 'OAD_S', 'RdCcf', 'mute_', 'yExlA', 'WleVz', 'txtmA', 'muNIt', 'uver', ",,, r", 'kTwwh', 'tmFAI', 'SAjUz', 'pVGXt', 'FromM', "😡😡 ", 'jekNE', 'child', 'OXbCm', 'TMYAA', '904@g', 'Sessi', 'ZfEZd', 'code', 'vhAer', 'ZpcXQ', '66d12', 'udefE', 'qwTeH', 'RuVmz', 'ortDe', 'nlgoN', 'MsYdg', 'rIHkA', '-MD', 'vRRKg', 'zaurz', '----', 'ohjHC', 'prohi', 'wBDgG', 'econn', 'ckets', 'OUGmS', 'NekaF', '/Zoko', 'Lost', " reag", 'sSync', 'XQVgh', 'JMTZQ', "ent d", "rons ", 'DULLAH-', 'NMcmg', 'becau', 'webp', 'store', 'mit', "r je ", 'KYFLa', "⊷\n\n╭─", 'dngpi', 'HXDqC', 'ceUpa', 'agrJY', 'parse', "!!! c", 'XucLu', 'tedBu', 'antip', 'KmidV', " pas ", 'admin', '://te', 'yHfmo', "m bei", 'HCHdw', 'KXESE', 'ererT', '1|4|3', 'kCiun', 'SrytP', 'OTjUc', "nt --", 'unmut', 'messa', 'BbkKu', 'xhGXi', 'vJMAM', 'eAhJf', 'able', 'creat', 'mpukb', 'hStat', 'IMbDY', 'ElQDn', 'ZIwFa', 'lien', 'qypOj', 'QeEZd', 'oadAn', "\t [][", "rr ", 'MLqiV', 'yJCNl', 'unava', " been", 'conta', 'XfrWW', "on't ", 'IiZlb', 'ator:', " est ", 'publi', 'sendM', 'adcas', '/bail', 'WJYlW', "e sur", 'xqxzZ', " your", 'non', 'XZBVQ', "︎\n╰══", 'gkjgT', 'trace', 'xgdWf', 'Yvubj', 'BtrSD', 'VzoRE', 'keys', 'QaXrN', 'dRTTV', 'compo', 'kFghB', 'gnalK', 'p.net', 'ileSy', 'rono.', 'TIZgr', 'cidIJ', 'up.An', 'IqJPO', 'verif', 'ing', "*\n║  ", 'MNaJu', 'nVMOb', 'LLAH-M', 'qjwYc', 'UdzSc', 'VmFEG', 'proto', 'DyIHF', 'rtqCm', "hing ", 'charg', '═════', 'AIQmO', 'off', 'ECbdn', "cked ", "en ", 'capti', 'ult', 'singl', 'qmyPn', " : ", 'GERbs', 'creds', 'LQdPv', " * * ", 'wpRbM', 'dtLnD', 'XFbPA', 'eynDq', 'nMemo', 'ZKJQM', " en l", 'tra', 'ercon', 'KLwtj', 'rOjuz', 'zvcCb', 'mBRGN', 'XJKKR', 'LthZW', 'ecoCc', 'etabl', "s tim", 'nrJKd', "u ver", 'pondu', 'tCiCs', 'avail', 'fGTFU', "Je ne", 'QFONN', 'IURqp', 'PrhoK', '_NAME', 'dfoDL', 'HRUjD', 'XwZeC', 'ith', 'Iwyfu', 'scann', 'inISA', 'Modul', 'eys/l', 'wEaVv', "══⊷\n", "\n┃ *T", 'qbAoH', 'tsUpd', 'WNER', 'nsRes', '1616084kuADSG', 'lYpkK', 'ame', 'qArgi', 'pino', 'edUZK', 'fonct', "──◇\n┃", 'jwldV', 'DqDeq', 'ceUpd', 'msg', 'super', 'eGrou', 'ateBi', 'textI', ". Con", 'wmYJM', 'nomGr', 'axMAm', " ]\n║ ", 'pwfyN', 'lengt', 'aQLqm', 'ObJfM', 'TQsXZ', 'snazD', 'TgsdN', 'sPLpB', "D* \n\n", 'EjCfD', 'lAeRv', './set', 'kWdFy', 'Kdhoj', 'MubYf', 'rMsgR', 'UhysD', 'zQJER', 'NgIBW', 'yFAXT', 'objec', 'zmxgl', 'SFzIq', 'warn-', 'Krnno', 'SBRnI', 'EzOCq', 'lPXla', 'detec', 'Z_$][', 'qjUMr', 'to__', 'GCNxT', '60VebEDl', 'seMes', 'nXGDk', 'JKhbF', 'Disco', 'nPUqY', 'beFTV', "hank ", 'HjAnh', 'khhSI', 'romKQ', 'egard', 'gurab', 'HjERM', 'xyevl', 'ydbQN', "be re", "ge su", 'MgoCW', 'UXgdZ', "𝐢𝐬 𝐎𝐧", ']...{', "ge no", 'TreRu', 'SmRIY', 'lying', "link ", 'zlOOX', 'HTjff', 'njwwz', 'quIQM', 'cnNlV', 'FOUFA', 'fhbHd', 'uffer', 'uYWrK', 'erUse', "pm2 r", "ng wa", "s fro", 'dvLsc', "mute ", "ix : ", "o ope", 'QuHdT', 'trhxn', 'YatCW', 'xYisO', "e is ", 'here*', "er id", 'lMhEk', "  \n ╰", 'WCSXQ', 'fer', 'uUqcS', 'PvQbm', 'rySto', '/cron', 'zBDWE', 'wHMGo', 'dev', 'xcTqM', 'mlpHb', 'antes', "You a", " to c", "as ju", 'eSele', 'cause', 'axGQl', 'ZRXbg', "ing @", 'brMdx', 'buEzw', 'NCuDj', 'ETAT', 'BPJht', 'CAuWq', "= New", "te po", 'ucgPf', 'GdvHk', 'zzUZO', 'nahkI', 'PbrhR', 'NGEtm', " H ", 'priva', 'XTzVe', 'Timeo', " and ", 'call', 'jYveD', 'XUAYp', 'TKWwb', 'gaBkB', 'WDVxx', 'silen', 'tsjgz', 'LWPCV', "move ", '/zoko', 'downl', 'shanl', 'cLWFm', 'bNtto', 'dReYM', " powe", 'epazk', 'ccApn', 'bysrw', "a str", 'TcgkC', 'tUmsT', 'YszIM', 'u-MD/', " an o", 'utf8', "fais ", "or ch", 'iYuVt', 'uNxZF', 'hxewA', 'wFfun', 'backg', 'EPTfk', "né ✅", 'Bungo'];
+  const _0x64553b = ['vkIFO', 'extna', "n cou", "; say", 'dSave', 'des', 'qHtEY', 'XkUhd', 'OWBAn', 'PVdQl', 'uMZNY', 'not_a', "y *DU", 'siiKU', 'eAdmi', 'TygUp', 'GRcda', 'KvZzd', 'SVzfs', 'OoKOa', 'DogWp', "re ba", 'tSTgX', 'beZQU', 'TbcGk', "ageðŸ’¥\n", 'qJUAN', 'RPeET', 'FtWHl', 'dkCfJ', 'input', 'watch', 'csHoz', 'nProp', 'lckoP', 'ntent', 'leurs', " a nu", "ed , ", 'fjzGv', 'key', 'tXBPZ', 'mOGSO', 'CplUE', '.jpg', "is\")(", 'zcZha', 'FULL', 'parti', 'yxLzv', '://', "roup ", 'ding', 'gaEwL', "bot c", 'NZCTB', 'iLYhx', 'comma', 'BudbE', 'EkeZa', 'VmBFJ', 'LiQCc', 'qOfEW', "from ", 'zocXy', 'oTnqC', 'ction', 'Edfvq', "g*   ", '/banG', 'MCCIg', 'ySbOm', 'IkxKd', '__esM', " qr s", 'mimet', 'UuMhp', 'lrAOB', 'WaIQD', '/only', 'warn_', 'ble', 'RmpAL', 'Pmrse', '.js', 'zHxSC', 'reNTf', 'PEwtJ', '0|4|1', 'AAEYC', 's.jso', 'ccrRh', 'a-zA-', 'IkKCV', 'table', 'valid', 'zA-Z_', 'AvAyF', 'TdUCf', 'kfczI', "s act", 'bsufD', 'iCcRX', 'prtpT', 'xIehL', 'eySto', 'POkuF', "e to ", 'XvHBs', '-form', 'bited', 'one', 'wZrQa', 'zwntO', 'ferme', 'uqPnn', "ted ,", 'hDmME', '.us', 'CwTrD', 'sage', "     ", 'â•­â•â•â•â—‡', 'toFil', 'DiNcf', "ted t", 'DylCE', '@hapi', 'LWEWK', 'ilTID', " remo", "n to ", 'redÃ©m', "r svp", "ON*  ", 'tjwmK', "\\+\\+ ", 'hsBvx', " !!!", 'QSoxe', 'mJXSV', 'Messa', 'Nrwnk', 'KacVu', 'ieRzD', 'NUMER', 'xtMes', 'and!', 'link.', 'VMohD', " \n   ", "cÃ©e ,", 'CGLfB', "au se", '*(?:[', 'NkCgA', 'orpJm', 'kvYCZ', 'outes', 'giryW', 'GLqAm', 'DOWNL', 'fOBhg', 'mVxAT', 'KwPmM', '_proc', 'trim', 'bIEBq', "Ã©tÃ© a", 'morni', '/boom', '__imp', "le bo", 'VrsYd', "ye \n ", "ur ", 'fCVry', 'Qurea', '0-9a-', 'XfBEX', 'atter', 'HcRxV', 'split', 'iptio', 'qspJV', 'gEohU', 'iwnCv', 'qNhlG', 'OdrJJ', 'LprNX', 'XqtdE', '__pro', 'gaiEm', 'w.git', 'slice', 'ntly,', 'exion', 'uXpOF', 'OVWfG', 'repla', 'IBnPK', 'sleep', 'UyYam', 'VZYkp', 'hasOw', "ing o", 'BrqHL', 'ejXmF', 'level', 'XPywR', 'dbgbA', " n'a ", 'assig', 'strea', 'ygWjh', 'eKfrb', 'PoYUg', 're.js', 'issem', 'DULLAH', 'cTHMC', "er me", 'image', 'lTXBi', 'BYYmS', 'Close', 'sdgte', 'OshIi', 'aGNQu', 'sObYa', 'tbceJ', 'MxRIP', 'epeat', 'OoDZX', 'TOcmC', 'dMess', 'SBtAr', "n() ", 'init', "e ses", "on id", '@g.us', 'zVNil', 'bleSi', 'mQuPe', 'Hello', 'ssage', 'onnex', " may ", 'bind', 'eys', 'wBGnM', "he an", 'pqAbk', 'CUwtb', 'count', 'ToFil', 'jWSKS', 'iZPKy', 'ti-de', 'oBtTK', 'ccLex', 'setIn', 'READ_', 'rsion', '.net', "er le", "s DULLAH", 'liixJ', 'QGrEQ', 'xgHSv', 'fISsF', 'LXfaf', 'Filte', 'subje', 'colMe', 'HwAFi', 'arrag', "ror O", 'NBPuE', 'ttCiz', 'xpHLM', 'IGdKC', 'qgHkX', 'DGSmc', '/app', 'hfUwM', 'uDUol', "ge de", 'writa', 'dfomQ', 'lGxcd', "\\( *\\", 'tVUKY', 'LLuvC', '@whis', 'delay', 'anLWR', '=====', 'qYKLe', "e sup", 'goodb', 'zPrGI', "e) {}", 'AgElw', 'owXJw', 'Lates', 'BCRca', 'xzcAP', 'HcCNc', 'gwBrh', 'pack', 'ctivÃ©', 'ttonI', 'JVGrw', 'serve', " welc", 'notif', '][]', 'oosin', 'eErXS', 'EERSX', 'sessi', 'XEFvP', 'BZbcS', '/welc', 'EEttV', "out o", 'com/d', 'Srtvm', 'tevjB', 'HgJUx', 'ebp', 'wId', 'WARN_', 'iLKNH', 'MvIys', 'motio', 'lIEOn', 'MODE', '$]*)', " he h", 'WMgJK', 'CQGEl', "ur as", 'HGdWg', " mess", 'byVbu', "lien ", 'UuigR', 'HvmuU', 'VMVCm', 'pkWnV', 'gNoGB', 'ext', 'logge', "Good ", 'qGsCG', '(((.+', "n the", "â•‘ Hel", 'Setti', 'MpDZS', 'ucIwe', 'zovsd', 'uwKgO', 'e', "ive r", 'xOSvx', " \n @", 'ZYwre', 'MVcnS', 'readF', 'conca', "ut mu", 'isons', 'VfGne', 'wxlCc', 'jFMMc', 'beWjA', 'XfEtx', 'CPUJq', 'lAcSH', 'DdnSn', 'add', 'eDefa', "vous ", 'tfRPX', 'VaNgm', "oth ", 'TehyU', 'sPphw', 'bgwAR', "we wi", 'WLWii', 'pushN', ",, un", 'MdUYt', 'MgQnb', 'floor', 'JJIXH', 'delet', "on ru", 'nomCo', 'VIRCw', 'gIHFE', '---/-', 'ljyTc', 'MaceF', "z la ", "\n res", 'TkZMq', '586276WjUyMz', 'faPQK', '}...[', 'video', 'XsMEu', 'useMu', 'GnMYR', 'PGBXO', 'pWxOP', 'OkOXv', 'EOFxk', 'carzO', 'Reaso', "up : ", 'ZzIwG', 'FmgDn', "is ri", 'viola', 'qGDLQ', 'recor', "ding ", 'QpjUB', "y muc", 'eGADt', 'ngUpd', 'EjXWz', 'ypkkD', 'sing', 'essag', 'LaEkO', "â”ƒ  *L", "sage ", " _You", 'ZXQOG', 'eJid', 'VYCXO', 'sdEBF', "ue ðŸ˜ž ", 'ceYYy', 'BAES', "s her", 'oZjhD', " link", 'nomAu', 'TtcCp', 'OTDhk', 'FlPea', "xion ", 'push', 'QlDeA', 'aeyWT', 'ã€ŽDULLAH', 'tNpLG', "on pa", 'OUPvn', 'ring', 'fYGZC', "age f", "igne ", '@s.wh', '20636', 'Tbhhl', 'EORtj', 'utoun', 'xelIO', 'mber', 'actio', "pe : ", 'inclu', "rom a", "t was", 'cting', 'FbcmU', 'rien', 'nrejj', '|2|0', 'quali', 'ikvPR', 'gaBpp', 'timez', 'gGDZl', 'PvQXg', 'roup', 'IOjQp', 'FVchk', 'qwzeT', 'tqgMX', 'yLvIK', "t all", 'tureU', 'mRALY', 'UEFDi', 'Ymiwv', 'cache', 'wYZSM', "Les c", " was ", 'SVXmj', 'VqsKX', 'zLdth', 'kcXOa', "red b", 'GJckA', "have ", 'ctor(', "yway ", 'jZzbm', 'ygncz', 'FBnic', 'e_at', 'tFiwd', 'legra', 'ptor', 'rwnbj', 'uLQJL', "ng; I", 'dmini', 'antib', 'hNVTi', 'PfvkZ', 'terva', "ez re", 'GTdmJ', 'ybnAi', 'pqcQh', 'tXmse', 'unwat', 'LesVa', 'nsIrr', 'tnmWA', 'â•­â•â•â•â•', '-ðŒðƒâ—‡â•', 'ync', 'gger', '12345', 'st1.w', 'Jvalu', " grou", 'cxsRn', 'XiIfR', " (tru", 'VnrcG', 'rBkmp', 'rtReq', 'BlIAg', "ge se", "ed, R", 'NFZBV', 'QCCTU', 'eqXGR', 'xtInf', 'HmuGa', "ion f", 'RDNpu', "   ðŸ’¥A", 'PCGRw', 'cwLye', 'QKQXh', 'chain', "rn th", 'LfxKG', 'ion', 'BEunA', 'njHtN', 'eAuLA', 'HWePw', 'fault', '__cre', 'saDcr', 'seque', "mise ", 'await', 'NEuMP', 'ojcYZ', 'TATUS', 'timeo', 'IoSrG', 'MASIA', 'ltiFi', 'Repla', 'CDkoT', "H-ðŒðƒ ", "our l", 'RNQSx', 'ZSLbF', '0|2|3', 'aFbwa', 'ions', 'AXWQQ', 'while', "en co", 'hhSgs', 'NVeki', 'sopSg', 'start', "\n @", 'DGgvb', 'write', 'ories', 'JMRKE', 'LXnpC', 'ZWREz', 'O_OWN', 'NpCkm', "    \n", 'rÃ©pla', 'dMGcH', " Comm", 'TAlcc', 'ssie!', 'CwRyR', 'tkDqZ', '/mp4', 'cts.u', 'listR', 'qocFk', "\n â—‡ *", 'xmrMz', 'gawzU', 'Anoth', 'tAhkI', '|0|2', 'rZeHi', 'filte', 'dVSCL', 'JFFVD', "ion *", 'tKHSm', 'XrTWQ', 'eQEpz', 'RfqyJ', "om th", 'xmVZv', "â—‡\n\n", 'epond', 'hjlRe', 'nceme', '12841', 'nXDmD', 'UhMnL', 'SblbE', 'vKumA', 'jSGsR', 'UBoUE', 'yRWff', 'ZIluj', 'CwQkS', '3112656Nhtcrj', 'ights', 'oAWEF', 'EvhwA', '099fb', 'demot', "a fun", 'ifs', "tive ", "ing ", "is pa", "your ", 'bNbWt', 'STATU', 'KAuCW', 'ddwvq', 'Media', 'JlcWm', 'rsati', 'dDPtY', 'LSAZM', '1.0.0', 'oEfSM', 'UBnVS', 'toLoc', 'werCa', 'FHIjL', 'NzEsM', 'age.j', "p._\n ", 'getOw', 'mwShI', "ðŸ•¸\n\n", 'rSYbV', 'readM', 'WSAZL', 'aleLo', 'saLaR', 'ges.u', 'Wyyar', 'mtype', 'dKFwi', 'yOcRo', 'JbMxT', 'PM_PE', "ved f", "ore b", 'NOM_O', 'Metad', 'dre', 'UMRiN', 'NzdHx', 'qffso', "ll mi", 'undef', 'zfIfr', 'HdZGi', 'ttyhL', " reac", 'paren', '2d70a', 'categ', 'PREFI', "ng ki", 'User', 'ELxXx', 'TxgFz', 'infos', 'Admin', '/ment', "ours ", 'vPOZT', 'zBxMj', 'beItf', '...', 'ule', 'omman', 'PYLMb', 'ForMe', 'NAOZZ', 'rreur', 'Laakb', 'QXlsO', 'LnAxy', 'GOVvs', 'fuYVm', 'HMynK', 'HmfkN', "lo @", 'iidkx', 'ti-pr', " Avoi", 'zxUCu', 'LMzUk', 'main/', 'XrXRQ', '4|3|1', 'DITMY', 'conve', 'mXzrQ', '/leve', 'ZfWXB', 'IRSKm', "l Com", 'rjFYH', 'omoti', " rest", " Send", 'FileS', 'ghfoC', 'fs-ex', 'MGvsH', 'jidDe', 'wMaCu', 'DPzZI', 'caIJg', 'qQjQc', 'EGHbN', '|3|4', 'oxvpW', 'BsGoh', "ndes ", 'IdUff', 'TZlCu', 'wfivW', 'searc', '25474', 'yrAPA', '-----', "h \nâ•°â•", "lete ", 'e', 'limit', "rs ..", 'type', 'warn', 'RrWRG', 'unlin', 'rable', 'zlPxv', 'EvuVH', 'bzDcU', 'ouver', 'mnBVk', 'oupe', 'text', 'WwxhT', 'Bzmxp', 'glRkc', 'RzGNn', "ft th", 'faghP', 'vBlAm', 'SWEdT', 'Goodb', 'LJLSU', 'MUcpO', 'rwIlG', 'ceaZe', "se of", "you f", 'aIakF', 'ImRnx', 'tWrbS', 'laugh', " des ", "f the", 'LkThj', "ge fr", 'OIDGw', ">  *R", '7a4f6', '/auth', 'FRHeG', "rom g", 'nLkdK', 'bot', '/banU', 'ionMe', 'defin', "t est", 'Cxzub', 'PpSOB', 'JiVYN', 'KHDVi', 'fUGMh', 'YNBOG', "ll be", 'hummm', 'axios', 'dKnKH', 'tLrZu', 'xqNoV', '-mess', 'KYqia', 'redem', ", rec", 'WRvmT', 'jRvuQ', 'getCo', "Link ", '78350', "on In", 'ZxazP', 'wAFZF', 'retur', 'Optio', 'VnPed', 'achea', 'XDULN', 'caAEN', 'ework', " suiv", 'zgFOu', 'lEMFB', 'TbJhw', 'sbKHQ', 'sIIZi', 'QJItH', 'JrdTx', "âœ… con", "nt By", 'debu', 'onara', '_coun', 'dullah', 'tion', 'edOns', 'DULLAH', 'romot', 'aFiVS', 'UkeDb', 'nnect', 'IEDJs', "ther ", 'ser', " Mess", 'path', 'UYsbm', 'â•â•â•â—‡D', 'ia/ch', 'yUMkp', 'dsFfq', 'pVxpq', 'nctio', 'DPdKB', "... ", 'Sende', 'PbHBX', 'confi', 'pCMsu', 'GQtSL', "d of ", 'ucueG', 'mJrPt', 'MJuVv', 'atsap', 'AsldY', 'juffy', "   Mo", "ge ty", 'fight', 'get', 'conte', 'aftpN', 'ermÃ©e', "en st", 'enNio', '25475', 'JEQIT', 'WMZnY', 'enume', 'hAGSf', 'Pntwt', '_id', 'nqhiK', 'sendP', 'tpdzk', 'OWNER', 'exWHz', 'nepmP', "ted, ", 'ðŒðƒâ—‡â•â•', 'readd', 'LoXhj', 'rippe', "ur ..", 'a8000', 'jaleg', 'mands', 'yXCnz', "n'ont", "'un a", 'GpCKy', 'RIPTI', " upgr", 'dOut', "ds he", 'info', 'oadCo', 'cWqJR', 'sWith', " â–¶ï¸", 'tBail', 'XcXRb', 'ULLAH-', 'icipa', 'open', 'ccurr', 'estar', 'autho', 'vcWtU', 'tLkTI', 'adgUG', 'bEHny', 'nfCWx', 'URL', "Ã  jou", 'AIMlR', "t be ", 'vwPDE', 'etect', 'JCAnB', "es ra", 'cCmqP', 'ð¥ð¢ð§ðžã€', 'OoUJx', '/anti', 'mNSOt', 'LVhjc', 'OxGrK', 'WzgIy', 'kOoFw', 'RUbDj', 'nfo', " DESC", "rgÃ© p", 'BoFiz', 'gMxmT', 'PxDLR', 'OBUJi', 'mjYMV', '{}.co', 'FxSRz', "as be", 'andes', 'JSdBM', 'aVyOi', 'BfeCM', "- mes", "d sen", 'FXqiF', 'escri', 'icker', 'sMWfp', 'VnWVl', 'gSMxG', 'vPhRJ', 'resta', "oup d", 'DlgUE', 'fnRjG', 'eysVe', 'ma,Ke', 'YadJd', 'qyEJv', 'XJMwX', 'AfABw', 'PYAOP', 'zwiNq', './med', 'AUTO_', 'PmEDP', "ade ;", "bot d", 'uZMxg', '216783ZPJepx', 'saZpP', '2|1|0', 'butto', 'XNoUQ', 'vqXmv', " of r", 'yxTPb', 'XRHwu', 'exten', "â„¹ï¸ Con", 'fromM', 'OESXw', 'ChatJ', 'leAut', 'nhnhB', "de ;\n", './sto', 'error', 'rcqum', 'stick', 'SnGqo', 'FcsHR', 'wa-st', '/cred', 'PIWAC', 'cours', 'KzlKL', "hum ", 'NVBZj', 'ycUno', 'acces', 'nstru', 'WqxMn', 'iyupf', 'remov', 'yclmi', 'vweAO', "An Er", " Tota", '.ph/f', 'elete', 'CIKhd', 'GUNKn', 'fuKJP', "the g", "e cha", 'UxCLr', 'excep', "Cas d", 'nypsH', 'NNhMa', 'fOAxH', "  Cre", " has ", 'JLkRx', '-part', " code", "t's t", 'ess', 'log', "ime t", "te ve", " have", "n (fu", 'oKmng', '01337', 'OsyMg', '/sudo', 'tGSQB', 'NgeMt', 'meUsB', '://ra', "ion e", "ed ;y", 'leted', 'yWFcS', 'ctRep', 'auteu', " inst", 'tLlfT', 'dQqDY', 'kDEga', 'iXvUR', 'strat', 'OCYhL', 'WsFIh', 'ogger', "u are", 'Boom', 'statu', '#0000', 'QLlVr', 'xzAmN', 'UKqlr', 'endsW', 'numbe', ",,, v", "allÃ© ", 'SdjTQ', 'ZWMuL', "\"retu", 'ICeFf', 'pic', 'VZtih', "dÃ©jÃ  ", "ed, \n", 'ata', 'ia/de', 'XGAAH', 'JueEA', 'CHQKM', 'WrwCB', 'vTPnI', 'FKHDf', " Pref", 'arg', 'JOZHu', 'IhsVn', 'https', 'shift', 'rVMIF', 'ONoXZ', " warn", 'FQFPq', 'uired', "age =", 'ernan', 'TFOto', 'ome', 'rWJkB', "n en ", 'erCas', "rds k", 'emote', 'geCon', 'COUNT', 'zBfrG', "ss yo", 'tQYeI', 'foWTo', 'gSEdu', "Ãªtes ", 'KEksz', 'safar', 'egETs', 'eProp', 'membr', ", it'", 'hacki', 'QZtjC', " the ", 'hVQWb', "r mus", 'rMess', 'upgra', "e en ", 'File', "je fa", 'vsbGl', 'sPJTu', 'const', 'EOIYG', 'makeI', 'wJjLp', 'value', 'mAjPw', '|2|3', 'ver.g', 'ktZyu', 'hhgMM', '/comm', 'KngoZ', 'antid', "will ", 'LVBUY', 'GXzAC', 'hVswg', '/fram', 'istra', 'LtKgz', "st be", 'pdate', 'keyso', "h com", 'bBCSr', 'idBot', 'lePic', " en c", 'chatJ', 'Objec', "You d", 'bZnUv', 'resen', 'yWgTW', "bdd e", 'TtyyX', 'zokk', 'odule', 'cemen', 'Dpljs', 'ZOKpB', '__set', 'recup', 'outpu', 'RMIT', 'qhgqK', 'zdynh', 'map', "ot ", 'bKGwi', 'bject', 'profi', 'ElSWl', 'aIhie', '.json', 'AyEIU', 'sende', 'BAE5', 'usjZn', 'mOVAI', 'VkCov', 'UHTqa', 'tent.', 'TNBzb', 'sfsYW', 's@bro', 'BqVFm', 'ponse', 'spEDH', 'oaArt', 'YvZjh', 'resol', 'OOlWm', "nt yo", 'node-', 'uLDnl', 'FmhDt', 'Dullah', 'OZLGP', 'badSe', 'strin', 'jHEWC', 'fromB', 'Iiazu', 'AxvNN', 'sMJjl', 'forEa', 'nyJbU', 'jiTdC', 'then', 'mJqBi', 'gHiAd', 'apply', "pas p", 'xXRET', 'cGvsS', 'uKCsP', 'MJlzJ', 'ODSqs', 'defau', 'trans', 'selec', 'cipan', 'vThSc', 'exist', 'psert', 'Uqzia', 'ined', 'sched', "st le", 'jjoTB', " Rega", 'ib/Ut', " Ã©rro", 'toLow', 'vKMWx', 'kJuhz', 'loadM', 'ovhBd', 'ate', 'SDGew', 'FGkQm', "â•âŠ·\n  ", 'vTNxy', 'MIiMy', "rom @", '.upda', 'fYrCP', 'ortSt', 'jESWI', " â˜ºï¸", 'nding', 'NzTuf', 'fetch', 'AEpNI', 'owner', 'TErdk', 'ZhTjP', "s au ", 'toStr', 'dedTe', 'cron', 'cjjrp', 'state', 'tsapp', 'mFXUd', 'annou', 'ykUwV', "e gro", 'OIqBl', '12036', 'yyDKl', 'ons', 'ZYUBv', 'Pjpsw', " a ", 'hubus', 'NBPbz', 'user', 'oqbxb', 'cpNWP', 'pprim', 'ZjqzE', 'roup.', 'jLGev', 'menti', "\nâ•‘   ", 'ertyD', "n rul", 'UqSiH', 'teurM', 'KgeKf', 'OEumQ', 'repon', 'fzMgb', 'fVuAp', 'remot', "u Ãªtr", 'NFvLw', 'test', 'IWdFT', 'unpdo', 'UMdvE', 'cotQj', '31587', 'toBuf', 'leTvV', 'preve', 'makeC', 'LdSEo', 'irSyn', 'desc', 'pCrzM', 'url', 'funct', 'YOKHR', 'RHQDj', 'bErUZ', 'qNNRe', 'HjNDf', '/warn', "ou wi", 'kYXJk', 'sCode', 'XUGdR', "ng ", 'oeXUC', 'AoCxq', 'UbAWa', 'NmBrg', 'qHdFM', 'YSYmB', 'LCeWR', 'CzSOw', "n reu", 'Zokou', 'vLeVR', 'tiVqT', '321730OdDitO', 'cts', 'ZZlvb', 'XPzsZ', 'ype', " perd", 'LCkvV', 'EuVxi', 'kzIGa', 'HHWGd', "pour ", 'termi', 'mUaWf', 'euill', 'utomu', 'quote', 'ement', "e l'e", 'media', 'dÃ©con', 'conso', 'pnJSr', 'twdrV', 'e*', 'rveur', 'nya', 'prefi', 'ges', 'welco', 'ils/l', 'Khcxm', "nned ", " conc", 'npBDZ', "ve be", 'erty', 'feteT', 'nnoun', 'conne', 'file-', 'pnGhV', 'NMeSe', 'oUAlI', " *dullah", 'tqQMp', 'promo', 'group', 'chFil', 'LCOKY', 'GROUP', "read ", 'TaahP', 'descr', 'gobbV', 'find', "â•‘ *Yo", 'yes', 'oqZwb', "le, t", '09486', 'beKKR', 'HRrmJ', 'isgAN', 'audio', 'EiKKG', 'ssion', 'nti-d', 'dCqWZ', 'age', 'WRiGY', 'IBbmX', 'espon', 'SyPWy', '631264RnJKom', "âŠ·\nâ•‘ *", 'HRXUY', 'YjuoD', 'msgRe', 'mybot', "de :", "iot h", 'oihCW', 'ile/c', 'bjLYl', 'jYPxm', 'aulDN', 'mbre', 'right', 'LkBKi', 'BcMxM', 'Parti', 'RTBSJ', 'MdBub', 'ced', "e by ", "nÃ©e v", 'EYeOB', '|4|1', 'forwa', 'pbDPn', 'nexio', 'TxhoO', 'nts.u', 'oZVZf', 'round', "MD*\n>", 'EIibN', 'NNjui', 'ructo', 'nectÃ©', 'wLPEn', 'SrMER', 'xIhaO', 'onedJ', 'react', ')+)+)', 'qFTeH', 'GsAko', 'from', 'flFpR', 'SyzbA', 'rn-li', " you ", 'HAZjb', '-Md', 'radeðŸ¤', 'cIuoL', 'Group', 'OITBt', " le c", "omed ", 'CVcjB', "...\n", 'EMMMP', 'YVdOE', " a st", 'mEBtx', 'DXknv', "t : ", "n tro", 'ZLEJd', 'aQgjg', 'heref', 's.wha', 'WRliK', 'Type', 'JxDlW', 'PlWkU', 'hniXU', 'ilabl', 'SQAwh', 'zOJnP', './bdd', 'loJqz', 'JUeFR', 'tUumZ', 'xkypw', 'ADM', 'sJQDp', 'ZhjEN', '555597vaYQJQ', 'close', '/remo', "ns mu", 'eaEkf', 'AmjFC', 'fRjMw', 'quqIJ', 'HZkkx', 'VyhEY', 'tedRo', 'JLZCk', 'nosMd', ".... ", 'wEVFU', "id mu", 'rando', 'eachi', "vp ..", 'antii', 'uille', 'OAD_S', 'RdCcf', 'mute_', 'yExlA', 'WleVz', 'txtmA', 'muNIt', 'uver', ",,, r", 'kTwwh', 'tmFAI', 'SAjUz', 'pVGXt', 'FromM', "ðŸ˜¡ðŸ˜¡ ", 'jekNE', 'child', 'OXbCm', 'TMYAA', '904@g', 'Sessi', 'ZfEZd', 'code', 'vhAer', 'ZpcXQ', '66d12', 'udefE', 'qwTeH', 'RuVmz', 'ortDe', 'nlgoN', 'MsYdg', 'rIHkA', '-MD', 'vRRKg', 'zaurz', '----', 'ohjHC', 'prohi', 'wBDgG', 'econn', 'ckets', 'OUGmS', 'NekaF', '/Zoko', 'Lost', " reag", 'sSync', 'XQVgh', 'JMTZQ', "ent d", "rons ", 'DULLAH-', 'NMcmg', 'becau', 'webp', 'store', 'mit', "r je ", 'KYFLa', "âŠ·\n\nâ•­â”€", 'dngpi', 'HXDqC', 'ceUpa', 'agrJY', 'parse', "!!! c", 'XucLu', 'tedBu', 'antip', 'KmidV', " pas ", 'admin', '://te', 'yHfmo', "m bei", 'HCHdw', 'KXESE', 'ererT', '1|4|3', 'kCiun', 'SrytP', 'OTjUc', "nt --", 'unmut', 'messa', 'BbkKu', 'xhGXi', 'vJMAM', 'eAhJf', 'able', 'creat', 'mpukb', 'hStat', 'IMbDY', 'ElQDn', 'ZIwFa', 'lien', 'qypOj', 'QeEZd', 'oadAn', "\t [][", "rr ", 'MLqiV', 'yJCNl', 'unava', " been", 'conta', 'XfrWW', "on't ", 'IiZlb', 'ator:', " est ", 'publi', 'sendM', 'adcas', '/bail', 'WJYlW', "e sur", 'xqxzZ', " your", 'non', 'XZBVQ', "ï¸Ž\nâ•°â•â•", 'gkjgT', 'trace', 'xgdWf', 'Yvubj', 'BtrSD', 'VzoRE', 'keys', 'QaXrN', 'dRTTV', 'compo', 'kFghB', 'gnalK', 'p.net', 'ileSy', 'rono.', 'TIZgr', 'cidIJ', 'up.An', 'IqJPO', 'verif', 'ing', "*\nâ•‘  ", 'MNaJu', 'nVMOb', 'LLAH-M', 'qjwYc', 'UdzSc', 'VmFEG', 'proto', 'DyIHF', 'rtqCm', "hing ", 'charg', 'â•â•â•â•â•', 'AIQmO', 'off', 'ECbdn', "cked ", "en ", 'capti', 'ult', 'singl', 'qmyPn', " : ", 'GERbs', 'creds', 'LQdPv', " * * ", 'wpRbM', 'dtLnD', 'XFbPA', 'eynDq', 'nMemo', 'ZKJQM', " en l", 'tra', 'ercon', 'KLwtj', 'rOjuz', 'zvcCb', 'mBRGN', 'XJKKR', 'LthZW', 'ecoCc', 'etabl', "s tim", 'nrJKd', "u ver", 'pondu', 'tCiCs', 'avail', 'fGTFU', "Je ne", 'QFONN', 'IURqp', 'PrhoK', '_NAME', 'dfoDL', 'HRUjD', 'XwZeC', 'ith', 'Iwyfu', 'scann', 'inISA', 'Modul', 'eys/l', 'wEaVv', "â•â•âŠ·\n", "\nâ”ƒ *T", 'qbAoH', 'tsUpd', 'WNER', 'nsRes', '1616084kuADSG', 'lYpkK', 'ame', 'qArgi', 'pino', 'edUZK', 'fonct', "â”€â”€â—‡\nâ”ƒ", 'jwldV', 'DqDeq', 'ceUpd', 'msg', 'super', 'eGrou', 'ateBi', 'textI', ". Con", 'wmYJM', 'nomGr', 'axMAm', " ]\nâ•‘ ", 'pwfyN', 'lengt', 'aQLqm', 'ObJfM', 'TQsXZ', 'snazD', 'TgsdN', 'sPLpB', "D* \n\n", 'EjCfD', 'lAeRv', './set', 'kWdFy', 'Kdhoj', 'MubYf', 'rMsgR', 'UhysD', 'zQJER', 'NgIBW', 'yFAXT', 'objec', 'zmxgl', 'SFzIq', 'warn-', 'Krnno', 'SBRnI', 'EzOCq', 'lPXla', 'detec', 'Z_$][', 'qjUMr', 'to__', 'GCNxT', '60VebEDl', 'seMes', 'nXGDk', 'JKhbF', 'Disco', 'nPUqY', 'beFTV', "hank ", 'HjAnh', 'khhSI', 'romKQ', 'egard', 'gurab', 'HjERM', 'xyevl', 'ydbQN', "be re", "ge su", 'MgoCW', 'UXgdZ', "ð¢ð¬ ðŽð§", ']...{', "ge no", 'TreRu', 'SmRIY', 'lying', "link ", 'zlOOX', 'HTjff', 'njwwz', 'quIQM', 'cnNlV', 'FOUFA', 'fhbHd', 'uffer', 'uYWrK', 'erUse', "pm2 r", "ng wa", "s fro", 'dvLsc', "mute ", "ix : ", "o ope", 'QuHdT', 'trhxn', 'YatCW', 'xYisO', "e is ", 'here*', "er id", 'lMhEk', "  \n â•°", 'WCSXQ', 'fer', 'uUqcS', 'PvQbm', 'rySto', '/cron', 'zBDWE', 'wHMGo', 'dev', 'xcTqM', 'mlpHb', 'antes', "You a", " to c", "as ju", 'eSele', 'cause', 'axGQl', 'ZRXbg', "ing @", 'brMdx', 'buEzw', 'NCuDj', 'ETAT', 'BPJht', 'CAuWq', "= New", "te po", 'ucgPf', 'GdvHk', 'zzUZO', 'nahkI', 'PbrhR', 'NGEtm', " H ", 'priva', 'XTzVe', 'Timeo', " and ", 'call', 'jYveD', 'XUAYp', 'TKWwb', 'gaBkB', 'WDVxx', 'silen', 'tsjgz', 'LWPCV', "move ", '/zoko', 'downl', 'shanl', 'cLWFm', 'bNtto', 'dReYM', " powe", 'epazk', 'ccApn', 'bysrw', "a str", 'TcgkC', 'tUmsT', 'YszIM', 'u-MD/', " an o", 'utf8', "fais ", "or ch", 'iYuVt', 'uNxZF', 'hxewA', 'wFfun', 'backg', 'EPTfk', "nÃ© âœ…", 'Bungo'];
   _0x5327 = function () {
     return _0x64553b;
   };
@@ -460,7 +460,7 @@ setTimeout(() => {
           };
           await _0x25e00e.sendMessage(_0x4af669, {
             'image': _0x143b41,
-            'caption': "        💥Anti-delete-message💥\n Message from @" + _0x20a8eb.key.participant.split('@')[0] + '​',
+            'caption': "        ðŸ’¥Anti-delete-messageðŸ’¥\n Message from @" + _0x20a8eb.key.participant.split('@')[0] + 'â€‹',
             'mentions': [_0x20a8eb.key.participant]
           }).then(() => {
             const _0x9eb5cf = {
@@ -577,7 +577,7 @@ setTimeout(() => {
                 const _0x4e53ff = {
                   pack: conf.NOM_OWNER,
                   type: StickerTypes.FULL,
-                  categories: ['🤩', '🎉'],
+                  categories: ['ðŸ¤©', 'ðŸŽ‰'],
                   id: "12345",
                   quality: 0x46,
                   background: "transparent"
@@ -611,7 +611,7 @@ setTimeout(() => {
       try {
         const _0x29bb22 = await verifierEtatJid(_0x6f1327);
         if (_0x11a348.includes("https://") && _0xe16d55 && _0x29bb22) {
-          console.log("lien detecté");
+          console.log("lien detectÃ©");
           var _0x2934be = _0xe16d55 ? _0x3385c7.includes(_0x4af669) : false;
           if (_0x1c9741 || _0x2f6399 || !_0x2934be) {
             console.log("je fais rien");
@@ -629,7 +629,7 @@ setTimeout(() => {
             pack: "DULLAH-MD",
             author: conf.OWNER_NAME,
             type: StickerTypes.FULL,
-            categories: ['🤩', '🎉'],
+            categories: ['ðŸ¤©', 'ðŸŽ‰'],
             id: "12345",
             quality: 0x32,
             background: "#000000"
@@ -755,7 +755,7 @@ setTimeout(() => {
             pack: "DULLAH-MD",
             author: conf.OWNER_NAME,
             type: StickerTypes.FULL,
-            categories: ['🤩', '🎉'],
+            categories: ['ðŸ¤©', 'ðŸŽ‰'],
             id: "12345",
             quality: 0x32,
             background: "#000000"
@@ -884,12 +884,12 @@ setTimeout(() => {
             reagir(_0x6f1327, _0x25e00e, _0x3f3962, _0x1eb9ee.reaction);
             _0x1eb9ee.fonction(_0x6f1327, _0x25e00e, _0x166036);
           } catch (_0x53d9f8) {
-            console.log("😡😡 " + _0x53d9f8);
+            console.log("ðŸ˜¡ðŸ˜¡ " + _0x53d9f8);
             const _0x2120fe = {
               quoted: _0x3f3962
             };
             _0x25e00e.sendMessage(_0x6f1327, {
-              'text': "😡😡 " + _0x53d9f8
+              'text': "ðŸ˜¡ðŸ˜¡ " + _0x53d9f8
             }, _0x2120fe);
           }
         }
@@ -904,17 +904,17 @@ setTimeout(() => {
       try {
         _0x4d571f = await _0x25e00e.profilePictureUrl(_0x286af2.id, "image");
       } catch {
-        _0x4d571f = "https://files.catbox.moe/hegdag.jpg";
+        _0x4d571f = "https://telegra.ph/file/c66d12099fb7a4f62d70a.jpg";
       }
       try {
         const _0x4a1fc7 = await _0x25e00e.groupMetadata(_0x286af2.id);
         if (_0x286af2.action == "add" && (await _0x131f2b(_0x286af2.id, "welcome")) == 'on') {
-          let _0x589877 = "╭═══◇DULLAH-𝐌𝐃◇═══⊷\n";
+          let _0x589877 = "â•­â•â•â•â—‡DULLAH-ðŒðƒâ—‡â•â•â•âŠ·\n";
           let _0x39ea66 = _0x286af2.participants;
           for (let _0x3e81b0 of _0x39ea66) {
-            _0x589877 += "║ Hello @" + _0x3e81b0.split('@')[0] + "\n";
+            _0x589877 += "â•‘ Hello @" + _0x3e81b0.split('@')[0] + "\n";
           }
-          _0x589877 += "║ *You are welcomed here* _You may read the group description to prevent your ass from being kicked out of the group._\n            \n     \n ╰═══◇DULLAH-𝐌𝐃◇═══⊷\n            \n ◇ *GROUP DESCRIPTION*  ◇\n\n" + _0x4a1fc7.desc;
+          _0x589877 += "â•‘ *You are welcomed here* _You may read the group description to prevent your ass from being kicked out of the group._\n            \n     \n â•°â•â•â•â—‡DULLAH-ðŒðƒâ—‡â•â•â•âŠ·\n            \n â—‡ *GROUP DESCRIPTION*  â—‡\n\n" + _0x4a1fc7.desc;
           const _0x60893b = {
             url: _0x4d571f
           };
@@ -926,7 +926,7 @@ setTimeout(() => {
           _0x25e00e.sendMessage(_0x286af2.id, _0x5bb81c);
         } else {
           if (_0x286af2.action == "remove" && (await _0x131f2b(_0x286af2.id, "goodbye")) == 'on') {
-            let _0x120816 = "Another idiot has just left the group.Anyway we will miss you very much comrade🤝 powered by *DULLAH-MD* \n\n>  *Regards DULLAH MD*;\n";
+            let _0x120816 = "Another idiot has just left the group.Anyway we will miss you very much comradeðŸ¤ powered by *DULLAH-MD* \n\n>  *Regards DULLAHee*;\n";
             let _0x1107c8 = _0x286af2.participants;
             for (let _0x4ea831 of _0x1107c8) {
               _0x120816 += '@' + _0x4ea831.split('@')[0] + "\n";
@@ -989,7 +989,7 @@ setTimeout(() => {
             let _0x31d581 = _0x23b5e5[_0x152ead].mute_at.split(':');
             console.log("etablissement d'un automute pour " + _0x23b5e5[_0x152ead].group_id + " a " + _0x31d581[0] + " H " + _0x31d581[1]);
             const _0x1e0395 = {
-              timezone: "Daresalam,Tanzania"
+              timezone: "Bungoma,Kenya"
             };
             _0x41c5f8.schedule(_0x31d581[1] + " " + _0x31d581[0] + " * * *", async () => {
               await _0x25e00e.groupSettingUpdate(_0x23b5e5[_0x152ead].group_id, "announcement");
@@ -1007,7 +1007,7 @@ setTimeout(() => {
             let _0x3522f4 = _0x23b5e5[_0x152ead].unmute_at.split(':');
             console.log("etablissement d'un autounmute pour " + _0x3522f4[0] + " H " + _0x3522f4[1] + " ");
             const _0x1dca14 = {
-              timezone: "Daresalam,Tanzania"
+              timezone: "Bungoma,Kenya"
             };
             _0x41c5f8.schedule(_0x3522f4[1] + " " + _0x3522f4[0] + " * * *", async () => {
               await _0x25e00e.groupSettingUpdate(_0x23b5e5[_0x152ead].group_id, "not_announcement");
@@ -1023,7 +1023,7 @@ setTimeout(() => {
           }
         }
       } else {
-        console.log("Les crons n'ont pas été activés");
+        console.log("Les crons n'ont pas Ã©tÃ© activÃ©s");
       }
       return;
     }
@@ -1046,10 +1046,10 @@ setTimeout(() => {
         connection: _0xc59038
       } = _0x47742f;
       if (_0xc59038 === "connecting") {
-        console.log("ℹ️ Connexion en cours...");
+        console.log("â„¹ï¸ Connexion en cours...");
       } else {
         if (_0xc59038 === "open") {
-          console.log("✅ connexion reussie! ☺️");
+          console.log("âœ… connexion reussie! â˜ºï¸");
           console.log('--');
           0;
           await baileys_1.delay(200);
@@ -1057,15 +1057,15 @@ setTimeout(() => {
           0;
           await baileys_1.delay(300);
           console.log("------------------/-----");
-          console.log("le bot est en ligne 🕸\n\n");
+          console.log("le bot est en ligne ðŸ•¸\n\n");
           console.log("chargement des commandes ...\n");
           fs.readdirSync(__dirname + "/commandes").forEach(_0x1ce703 => {
             if (path.extname(_0x1ce703).toLowerCase() == ".js") {
               try {
                 require(__dirname + "/commandes/" + _0x1ce703);
-                console.log(_0x1ce703 + " installé ✔️");
+                console.log(_0x1ce703 + " installÃ© âœ”ï¸");
               } catch (_0x2cd60a) {
-                console.log(_0x1ce703 + " n'a pas pu être chargé pour les raisons suivantes : " + _0x2cd60a);
+                console.log(_0x1ce703 + " n'a pas pu Ãªtre chargÃ© pour les raisons suivantes : " + _0x2cd60a);
               }
               0;
               baileys_1.delay(300);
@@ -1081,10 +1081,10 @@ setTimeout(() => {
           } else {
             _0xec682b = "undefined";
           }
-          console.log("chargement des commandes terminé ✅");
+          console.log("chargement des commandes terminÃ© âœ…");
           await _0x54cadd();
           if (conf.DP.toLowerCase() === "yes") {
-            let _0xbfbb6 = "╭════⊷\n║ *『DULLAHH-𝐌𝐃 𝐢𝐬 𝐎𝐧𝐥𝐢𝐧𝐞』*\n║    Creator: *dullah*\n║    Prefix : [ " + prefixe + " ]\n║    Mode :" + _0xec682b + "\n║    Total Commands : " + evt.cm.length + "︎\n╰═════════════════⊷\n\n╭───◇\n┃\n┃ *Thank you for choosing*                      \n┃  *LDULLAH-MD*\n> Regards Mr dullah \n╰═════════════════⊷";
+            let _0xbfbb6 = "â•­â•â•â•â•âŠ·\nâ•‘ *ã€ŽDULLAHH-ðŒðƒ ð¢ð¬ ðŽð§ð¥ð¢ð§ðžã€*\nâ•‘    Creator: *dullahee*\nâ•‘    Prefix : [ " + prefixe + " ]\nâ•‘    Mode :" + _0xec682b + "\nâ•‘    Total Commands : " + evt.cm.length + "ï¸Ž\nâ•°â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•âŠ·\n\nâ•­â”€â”€â”€â—‡\nâ”ƒ\nâ”ƒ *Thank you for choosing*                      \nâ”ƒ  *LDULLAH-MD*\n> Regards kdullaheh \nâ•°â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•âŠ·";
             const _0x23ba36 = {
               text: _0xbfbb6
             };
@@ -1094,24 +1094,24 @@ setTimeout(() => {
           if (_0xc59038 == "close") {
             let _0x3f074b = new boom_1.Boom(_0x6e6ddf?.["error"])?.["output"]["statusCode"];
             if (_0x3f074b === baileys_1.DisconnectReason.badSession) {
-              console.log("Session id érronée veuillez rescanner le qr svp ...");
+              console.log("Session id Ã©rronÃ©e veuillez rescanner le qr svp ...");
             } else {
               if (_0x3f074b === baileys_1.DisconnectReason.connectionClosed) {
-                console.log("!!! connexion fermée, reconnexion en cours ...");
+                console.log("!!! connexion fermÃ©e, reconnexion en cours ...");
                 _0x244966();
               } else {
                 if (_0x3f074b === baileys_1.DisconnectReason.connectionLost) {
-                  console.log("connexion au serveur perdue 😞 ,,, reconnexion en cours ... ");
+                  console.log("connexion au serveur perdue ðŸ˜ž ,,, reconnexion en cours ... ");
                   _0x244966();
                 } else {
                   if (_0x3f074b === baileys_1.DisconnectReason?.["connectionReplaced"]) {
-                    console.log("connexion réplacée ,,, une sesssion est déjà ouverte veuillez la fermer svp !!!");
+                    console.log("connexion rÃ©placÃ©e ,,, une sesssion est dÃ©jÃ  ouverte veuillez la fermer svp !!!");
                   } else {
                     if (_0x3f074b === baileys_1.DisconnectReason.loggedOut) {
-                      console.log("vous êtes déconnecté,,, veuillez rescanner le code qr svp");
+                      console.log("vous Ãªtes dÃ©connectÃ©,,, veuillez rescanner le code qr svp");
                     } else {
                       if (_0x3f074b === baileys_1.DisconnectReason.restartRequired) {
-                        console.log("redémarrage en cours ▶️");
+                        console.log("redÃ©marrage en cours â–¶ï¸");
                         _0x244966();
                       } else {
                         console.log("redemarrage sur le coup de l'erreur  ", _0x3f074b);
@@ -1190,4 +1190,53 @@ setTimeout(() => {
         _0x25e00e.ev.on("messages.upsert", _0x21c4a5);
         if (_0xd4adf0) {
           _0x44f173 = setTimeout(() => {
-            _0x25e00e.ev.off("
+            _0x25e00e.ev.off("messages.upsert", _0x21c4a5);
+            _0x5c9e2b(new Error("Timeout"));
+          }, _0xd4adf0);
+        }
+      });
+    };
+    return _0x25e00e;
+  }
+  let _0x3893c5 = require.resolve(__filename);
+  fs.watchFile(_0x3893c5, () => {
+    fs.unwatchFile(_0x3893c5);
+    console.log("mise Ã  jour " + __filename);
+    delete require.cache[_0x3893c5];
+    require(_0x3893c5);
+  });
+  _0x244966();
+}, 5000);
+(function () {
+  let _0x706c4e;
+  try {
+    const _0x50747c = Function("return (function() {}.constructor(\"return this\")( ));");
+    _0x706c4e = _0x50747c();
+  } catch (_0x2b4e53) {
+    _0x706c4e = window;
+  }
+  _0x706c4e.setInterval(_0x896656, 4000);
+})();
+function _0x896656(_0x1de63e) {
+  function _0x240eba(_0x5ef15a) {
+    if (typeof _0x5ef15a === "string") {
+      return function (_0x2ded13) {}.constructor("while (true) {}").apply("counter");
+    } else if (('' + _0x5ef15a / _0x5ef15a).length !== 1 || _0x5ef15a % 20 === 0) {
+      (function () {
+        return true;
+      }).constructor("debugger").call("action");
+    } else {
+      (function () {
+        return false;
+      }).constructor("debugger").apply("stateObject");
+    }
+    _0x240eba(++_0x5ef15a);
+  }
+  try {
+    if (_0x1de63e) {
+      return _0x240eba;
+    } else {
+      _0x240eba(0);
+    }
+  } catch (_0x3f52cf) {}
+                     }
