@@ -423,7 +423,7 @@ const fetchGitHubStats = async () => {
   }
 };
 const _0x342a55 = {
-  nomCom: "menu"
+  nomCom: "afredy"
 };
 function _0x35195d(_0x26e9f0, _0xd0555c, _0x4eaa78, _0x364b96, _0x2e663a, _0x3a5413, _0x4c189c, _0x215251, _0x333b68) {
   return _0x1ba6(_0x3a5413 - 0x4, _0x364b96);
@@ -504,7 +504,7 @@ zokou(_0x342a55, async (_0xe58255, _0x37f243, _0x10613e) => {
   }
 });
 const _0x3f2193 = {
-  nomCom: "help",
+  nomCom: "asaidia",
   aliases: ["commands","list"]
 };
 function _0x20516b(_0x5aa5f5, _0x5dd668, _0x40f7e2, _0x5f41f3, _0x4c6afb, _0x403db1, _0x543c52, _0x3ddb95, _0x7e5c6a) {
