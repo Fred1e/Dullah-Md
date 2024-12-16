@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 zokou({ nomCom: "ping", reaction: "🧒", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = '*🤖Bot is online*🤖 🙏 \n\n ' + "DULLAH✌️MD";
+    let z = '*🤖Bot is online*🤖 🙏 \n\n ' + "DULLAH-MD";
     let d = '                                          add more status';                               
     let varmess = z + d;
     var mp4 = 'https://files.catbox.moe/jq3oin.mp4';
